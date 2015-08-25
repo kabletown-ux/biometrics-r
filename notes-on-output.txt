@@ -1,0 +1,8 @@
+output 1 (round 1): created using new random samples for testing and imposters. Algorithm: TI_IVEC_4
+
+output 2 (round 1) created using cached testing and imposter samples per user iterated.   Algorithm: TI_IVEC_4
+
+output 3 (round 1): tweaked baseline to use cached samples + different enrollment algorithm: TD_IVEC
+
+output 4 (round 2): Added full imposter iteration, + 10x training sets and full imposter sets per user.
+
