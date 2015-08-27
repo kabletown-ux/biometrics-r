@@ -1,31 +1,76 @@
-loadData <- function( fileName ) {
+loadData3 <- function( fileName ) {
     
-    rawData <- read.csv( paste( "data/", fileName, sep = '' ) )
-    #print( str( rawData ) )
+    rawData3 <- read.csv( paste( "data/baseline-supervised/", fileName, sep = '' ) )
+    #print( str( rawData3 ) )
     
     # coerce all factors to character: http://stackoverflow.com/questions/2851015/convert-data-frame-columns-from-factors-to-characters/2853231#2853231
-    i <- sapply( rawData, is.factor )
-    rawData[ i ] <- lapply( rawData[ i ], as.character )
+    i <- sapply( rawData3, is.factor )
+    rawData3[ i ] <- lapply( rawData3[ i ], as.character )
     
-    #print( str( rawData ) )
+    print( str( rawData3 ) )
     
     # update levels first, a *must* for factors
-    levels( rawData$real.speaker ) <- c( "o gabrielle borneman", "errinn rebollar", "novela soto", "russel isabell", "robert ryan" )
+    levels( rawData3$real.speaker ) <- c( "o gabrielle borneman", "errinn rebollar", "novela soto", "russel isabell", "robert ryan" )
     
-    #print( levels( rawData$real.speaker ) )
+    print( levels( rawData3$real.speaker ) )
     
     # update field names: real.speaker
-    rawData$real.speaker[ rawData$real.speaker == "o" ] <- "o gabrielle borneman"
-    rawData$real.speaker[ rawData$real.speaker == "errinn" ] <- "errinn rebollar"
-    rawData$real.speaker[ rawData$real.speaker == "novella" ] <- "novella soto"
-    rawData$real.speaker[ rawData$real.speaker == "russel" ] <- "russel isabell"
-    rawData$real.speaker[ rawData$real.speaker == "robert" ] <- "robert ryan"
+    rawData3$real.speaker[ rawData3$real.speaker == "o" ] <- "o gabrielle borneman"
+    rawData3$real.speaker[ rawData3$real.speaker == "errinn" ] <- "errinn rebollar"
+    rawData3$real.speaker[ rawData3$real.speaker == "novella" ] <- "novella soto"
+    rawData3$real.speaker[ rawData3$real.speaker == "russel" ] <- "russel isabell"
+    rawData3$real.speaker[ rawData3$real.speaker == "robert" ] <- "robert ryan"
     # update field names: predicted.speaker
-    rawData$predicted.speaker[ rawData$predicted.speaker == "o" ] <- "o gabrielle borneman"
-    rawData$predicted.speaker[ rawData$predicted.speaker == "errinn" ] <- "errinn rebollar"
-    rawData$predicted.speaker[ rawData$predicted.speaker == "novella" ] <- "novella soto"
-    rawData$predicted.speaker[ rawData$predicted.speaker == "russel" ] <- "russel isabell"
-    rawData$predicted.speaker[ rawData$predicted.speaker == "robert" ] <- "robert ryan"
+    rawData3$predicted.speaker[ rawData3$predicted.speaker == "o" ] <- "o gabrielle borneman"
+    rawData3$predicted.speaker[ rawData3$predicted.speaker == "errinn" ] <- "errinn rebollar"
+    rawData3$predicted.speaker[ rawData3$predicted.speaker == "novella" ] <- "novella soto"
+    rawData3$predicted.speaker[ rawData3$predicted.speaker == "russel" ] <- "russel isabell"
+    rawData3$predicted.speaker[ rawData3$predicted.speaker == "robert" ] <- "robert ryan"
     
-    #rawData <<- rawData
+    # add column for aggregation calculation
+    rawData3$score <- 1
+    
+    #rawData3 <<- rawData3   
+    #rawData3
+    
+    # this is waaaaaay easier!
+    print( "##################################################################" )
+    print( fileName )
+    print( "" )
+    print( "Nuance Baseline for Trios: " )
+    confusion <- table( rawData3$real.speaker, rawData3$identified.as )
+    print( confusion )
+    print( "" )
+    print( "##################################################################" )
+    
+}
+doAnalysis3 <- function() {
+    
+#     #print( unique( rawData3$real.speaker ) )
+#     #print( table( rawData3$real.speaker ) )
+#     matches <- subset( rawData3, real.speaker == identified.as ) 
+#     misses <- subset( rawData3, real.speaker != identified.as )
+#     
+#     missesAggregate <- aggregate( score ~ real.speaker + identified.as, misses, sum )
+#     matchesAggregate <- aggregate( score ~ real.speaker + identified.as, matches, sum )
+#     
+#     bothAggregates <- rbind( missesAggregate, matchesAggregate )
+#     sortedAggregate <- bothAggregates[ order( bothAggregates$real.speaker, -bothAggregates$score ), ]
+#     print( "Nuance Baseline for Trios" )
+#     
+#     colnames( sortedAggregate ) <- c( "Actual", "Predicted", "Score" )
+#     print( sortedAggregate )
+#     class( sortedAggregate )
+    
+#     scores <- bothAggregates[[3]]
+#     print( scores )
+#     str( bothAggregates )
+    #table( sortedAggregate )
+    
+    # this is waaaaaay easier!
+    print( "" )
+    print( "Nuance Baseline for Trios" )
+    confusion <- table( rawData3$real.speaker, rawData3$identified.as )
+    print( confusion )
+    
 }
