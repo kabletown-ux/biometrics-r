@@ -6,3 +6,19 @@ output 3 (round 1): tweaked baseline to use cached samples + different enrollmen
 
 output 4 (round 2): Added full imposter iteration, + 10x training sets and full imposter sets per user.
 
+round 3: does a baseline test of the trios that vamsi clustered (best case supervised learning).  It *does not* test how nuance does, when trained w/ his labels (some of them innacurate).  Round04 does that.  Files for round 3 found in data/baseline-supervised
+
+round 4: checks how well nuance does when trained w/ vamsi's labels (some of them innacurate).  Currently takes the first 30 from his list and trains the predicted speaker.  Testing skips the first 30 files used for training. Files for round 4 found in data/labeled-by-vamsi
+
+
+output-cluster-test-errinn-novella-russel-1.csv
+output-cluster-test-errinn-novella-o-1.csv	
+output-cluster-test-novella-o-robert-1.csv
+output-cluster-test-errinn-novella-russel-1.csv	
+output-cluster-test-novella-o-russel-1.csv
+output-cluster-test-errinn-o-robert-1.csv	
+output-cluster-test-novella-robert-russel-1.csv
+output-cluster-test-errinn-o-russel-1.csv	
+output-cluster-test-o-robert-russel-1.csv
+
+output-cluster-test-errinn-robert-russel-1.csv
