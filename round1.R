@@ -1,13 +1,13 @@
 loadData <- function( fileName ) {
     
-    rawData <<- read.csv( paste( "/Users/rruiz/Work/biometrics/python-src/data/2015.06.16-output", fileName, sep = '' ) )
+    rawData <- read.csv( paste( "/Users/rruiz/Work/biometrics/python-src/data/2015.06.16-output/", fileName, sep = '' ) )
     
     ## update all speaker.test.score fields to "NA" if their comment field != "trained"
     rawData$speaker.test.score[ rawData$training.comment != "trained" ] <- NA
     rawData$imposter.test.score[ rawData$training.comment != "trained" ] <- NA
     
     ## remove rows w/ NA.  
-    rawData <- rawData[ complete.cases( rawData ), ]
+    rawData <<- rawData[ complete.cases( rawData ), ]
 }
 
 plotTestingFileLength <- function() {
@@ -28,25 +28,30 @@ plotAverageTestScores <- function() {
     mits <- aggregate( imposter.test.score~file.count, rawData, mean )
     
     # merge vertically
-    names( msts )[ 2 ] <- "test.score"
-    names( mits )[ 2 ] <- "test.score"
-    bothSpeakers <- rbind( msts, mits )
-    avgBoth <- aggregate( test.score~file.count, bothSpeakers, mean )
+    #     names( msts )[ 2 ] <- "test.score"
+    #     names( mits )[ 2 ] <- "test.score"
+    #     bothSpeakers <- rbind( msts, mits )
+    #     avgBoth <- aggregate( test.score~file.count, bothSpeakers, mean )
+    #     
+    
+    ## set margins?
     
     ## plot speaker test score
     plotType <- "o"
     yRange <- c( -60, 80 )
-    ##yRange <- c( -75, 50 )
-    plot( msts, col=3, pch=1, ylim=yRange, xlim=c(1, 30), type=plotType, main="Average Voice Biometric Test Scores", xlab="Training Submissions", ylab="Voice Samples: Imposter vs. Speaker")
+    #yRange <- c( -75, 50 )
+    plot( msts, col=3, pch=1, ylim=yRange, xlim=c(1, 30), type=plotType, main="Average Voice Biometric Test Scores\n for 8 Speakers, Trained & Tested in Groups of 1", xlab="Voice Samples Submitted for Training", ylab="Nuance Score")
     
     ## overlay imposter test score
     points( mits, col=2, pch=1, type=plotType )
     
     ## overlay avg of both test scores
-    points( avgBoth, col=1, pch=1, type=plotType )
+    #points( avgBoth, col=1, pch=1, type=plotType )
     
     ## add a couple of horizontal lines
     hVals <- c( -40, -20, 0, 20, 40, 60 )
-    ##hVals <- c( -60, -40, -20, 0, 20, 40 )
+    #hVals <- c( -60, -40, -20, 0, 20, 40 )
     abline( h = hVals, lty = 2, col = "gray" )
+    
+    legend( 'topleft', legend=c( "Speaker", "Imposter" ), lty=1, col=c('green', 'red'), bty='y', cex=1 )
 }
