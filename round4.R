@@ -11,25 +11,26 @@ loadData4 <- function( fileName ) {
     rawData4$score <- 1
     
     rawData4 <<- rawData4   
-    
-    # table is muuuuuuch easier
-    print( "##################################################################" )
-    confusion <- table( rawData4$predicted.speaker, rawData4$identified.as )
-    print( fileName )
-    print( "" )
-    print( "Clustering => Nuance" )
-    print( "" )
-    print( confusion )
-    print( "" )
-    print( "##################################################################" )
-    confusion <- table( rawData4$predicted.speaker, rawData4$real.speaker )
-    print( fileName )
-    print( "" )
-    print( "Clustering baseline for trios" )
-    print( "" )
-    print( confusion )
-    print( "" )
-    print( "##################################################################" )
+    fileName <<- fileName
+#     
+#     # table is muuuuuuch easier
+#     print( "##################################################################" )
+#     confusion <- table( rawData4$predicted.speaker, rawData4$identified.as )
+#     print( fileName )
+#     print( "" )
+#     print( "Clustering => Nuance" )
+#     print( "" )
+#     print( confusion )
+#     print( "" )
+#     print( "##################################################################" )
+#     confusion <- table( rawData4$predicted.speaker, rawData4$real.speaker )
+#     print( fileName )
+#     print( "" )
+#     print( "Clustering baseline for trios" )
+#     print( "" )
+#     print( confusion )
+#     print( "" )
+#     print( "##################################################################" )
     
 }
 doAnalysis4 <- function() {
@@ -59,14 +60,21 @@ doAnalysis4 <- function() {
 #     print( sortedAggregate )
 #     
     # table is muuuuuuch easier
+    print( "##################################################################" )
     confusion <- table( rawData4$predicted.speaker, rawData4$identified.as )
+    print( fileName )
     print( "" )
     print( "Clustering => Nuance" )
+    print( "" )
     print( confusion )
-    
+    print( "" )
+    print( "##################################################################" )
     confusion <- table( rawData4$predicted.speaker, rawData4$real.speaker )
+    print( fileName )
     print( "" )
     print( "Clustering baseline for trios" )
+    print( "" )
     print( confusion )
-    
+    print( "" )
+    print( "##################################################################" )
 }
