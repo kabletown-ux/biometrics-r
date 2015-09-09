@@ -1,8 +1,10 @@
-output 1 (round 1): created using new random samples for testing and imposters. Algorithm: TI_IVEC_4
+output1.csv (round 1): created using new random samples for testing and imposters. Algorithm: TI_IVEC_4
 
-output 2 (round 1) created using cached testing and imposter samples per user iterated.   Algorithm: TI_IVEC_4
+output2.csv (round 1) created using cached testing and imposter samples per user iterated.   Algorithm: TI_IVEC_4
 
-output 3 (round 1): tweaked baseline to use cached samples + different enrollment algorithm: TD_IVEC
+output3.csv (round 1): tweaked baseline to use cached samples + different enrollment algorithm: TD_IVEC
+output7-debugging-training-post.csv: reconfig’d 2nd server installation and reran round1 test
+
 
 output 4 (round 2): Added full imposter iteration, + 10x training sets and full imposter sets per user.
 

@@ -1,0 +1,396 @@
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-novella-russel-1.csv"
+[1] ""
+[1] "Nuance Baseline for Trios: "
+                 
+                  errinn rebollar novella soto
+  errinn rebollar             331           14
+  novella soto                  5          243
+  russel isabell              294            2
+[1] ""
+[1] "##################################################################"
+
+
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-novella-russel-1.csv"
+[1] ""
+[1] "Clustering => Nuance"
+[1] ""
+                 
+                  novella soto
+  errinn rebollar          308
+  novella soto             303
+  russel isabell           227
+[1] ""
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-novella-russel-1.csv"
+[1] ""
+[1] "Clustering baseline for trios"
+[1] ""
+                 
+                  errinn rebollar novella soto russel isabell
+  errinn rebollar             330            1              1
+  novella soto                 17          247             39
+  russel isabell                1            0            256
+[1] ""
+[1] "##################################################################"
+
+================================================================================================================
+
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-novella-o-1.csv"
+[1] ""
+[1] "Nuance Baseline for Trios: "
+                      
+                       errinn rebollar novella soto o gabrielle borneman
+  errinn rebollar                  326           11                    8
+  novella soto                       3          241                    4
+  o gabrielle borneman             195            9                  433
+[1] ""
+[1] "##################################################################"
+
+
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-novella-o-1.csv"
+[1] ""
+[1] "Clustering => Nuance"
+[1] ""
+                      
+                       novella soto o gabrielle borneman
+  errinn rebollar               248                  248
+  novella soto                  179                   82
+  o gabrielle borneman          199                  187
+[1] ""
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-novella-o-1.csv"
+[1] ""
+[1] "Clustering baseline for trios"
+[1] ""
+                      
+                       errinn rebollar novella soto o gabrielle borneman
+  errinn rebollar                  281          239                    6
+  novella soto                       3            1                  287
+  o gabrielle borneman              64            8                  344
+[1] ""
+[1] "##################################################################"
+
+================================================================================================================
+
+
+[1] "##################################################################"
+[1] "output-cluster-test-novella-o-robert-1.csv"
+[1] ""
+[1] "Nuance Baseline for Trios: "
+                      
+                       novella soto o gabrielle borneman robert ryan
+  novella soto                  241                    3           4
+  o gabrielle borneman            9                  446         182
+  robert ryan                    11                   21          78
+[1] ""
+[1] "##################################################################"
+
+
+[1] "##################################################################"
+[1] "output-cluster-test-novella-o-robert-1.csv"
+[1] ""
+[1] "Clustering => Nuance"
+[1] ""
+                      
+                       novella soto o gabrielle borneman robert ryan
+  novella soto                  233                    8          89
+  o gabrielle borneman            7                  264          81
+  robert ryan                     8                  173          72
+[1] ""
+[1] "##################################################################"
+[1] "output-cluster-test-novella-o-robert-1.csv"
+[1] ""
+[1] "Clustering baseline for trios"
+[1] ""
+                      
+                       novella soto o gabrielle borneman robert ryan
+  novella soto                  246                    8         106
+  o gabrielle borneman            1                  381           0
+  robert ryan                     1                  248           4
+[1] ""
+[1] "##################################################################"
+
+
+
+================================================================================================================
+
+
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-novella-russel-1.csv"
+[1] ""
+[1] "Nuance Baseline for Trios: "
+                 
+                  errinn rebollar novella soto
+  errinn rebollar             331           14
+  novella soto                  5          243
+  russel isabell              294            2
+[1] ""
+[1] "##################################################################"
+
+
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-novella-russel-1.csv"
+[1] ""
+[1] "Clustering => Nuance"
+[1] ""
+                 
+                  novella soto
+  errinn rebollar          308
+  novella soto             303
+  russel isabell           227
+[1] ""
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-novella-russel-1.csv"
+[1] ""
+[1] "Clustering baseline for trios"
+[1] ""
+                 
+                  errinn rebollar novella soto russel isabell
+  errinn rebollar             330            1              1
+  novella soto                 17          247             39
+  russel isabell                1            0            256
+[1] ""
+[1] "##################################################################"
+
+
+================================================================================================================
+
+[1] "##################################################################"
+[1] "output-cluster-test-novella-o-russel-1.csv"
+[1] ""
+[1] "Nuance Baseline for Trios: "
+                      
+                       novella soto o gabrielle borneman
+  novella soto                  244                    4
+  o gabrielle borneman           14                  623
+  russel isabell                  3                  293
+[1] ""
+[1] "##################################################################"
+
+
+[1] "##################################################################"
+[1] "output-cluster-test-novella-o-russel-1.csv"
+[1] ""
+[1] "Clustering => Nuance"
+[1] ""
+                      
+                       novella soto o gabrielle borneman russel isabell
+  novella soto                  199                  295             65
+  o gabrielle borneman            7                  168             44
+  russel isabell                  3                  305             47
+[1] ""
+[1] "##################################################################"
+[1] "output-cluster-test-novella-o-russel-1.csv"
+[1] ""
+[1] "Clustering baseline for trios"
+[1] ""
+                      
+                       novella soto o gabrielle borneman russel isabell
+  novella soto                  248                  267             71
+  o gabrielle borneman            0                  182             51
+  russel isabell                  0                  188            174
+[1] ""
+[1] "##################################################################"
+
+================================================================================================================
+
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-o-robert-1.csv"
+[1] ""
+[1] "Nuance Baseline for Trios: "
+                      
+                       errinn rebollar o gabrielle borneman robert ryan
+  errinn rebollar                  256                    4          85
+  o gabrielle borneman             140                  390         107
+  robert ryan                       81                    2          27
+[1] ""
+[1] "##################################################################"
+
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-o-robert-1.csv"
+[1] ""
+[1] "Clustering => Nuance"
+[1] ""
+                      
+                       o gabrielle borneman robert ryan
+  errinn rebollar                       116         311
+  o gabrielle borneman                  175         164
+  robert ryan                            74         175
+[1] ""
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-o-robert-1.csv"
+[1] ""
+[1] "Clustering baseline for trios"
+[1] ""
+                      
+                       errinn rebollar o gabrielle borneman robert ryan
+  errinn rebollar                  340                    4         109
+  o gabrielle borneman               6                  356           1
+  robert ryan                        2                  277           0
+[1] ""
+[1] "##################################################################"
+
+
+================================================================================================================
+
+[1] "##################################################################"
+[1] "output-cluster-test-novella-robert-russel-1.csv"
+[1] ""
+[1] "Nuance Baseline for Trios: "
+                
+                 novella soto robert ryan
+  novella soto            245           3
+  robert ryan              15          95
+  russel isabell            6         290
+[1] ""
+[1] "##################################################################"
+
+
+[1] "##################################################################"
+[1] "output-cluster-test-novella-robert-russel-1.csv"
+[1] ""
+[1] "Clustering => Nuance"
+[1] ""
+                
+                 novella soto robert ryan russel isabell
+  novella soto            175           8             51
+  robert ryan               9          75             28
+  russel isabell            3         186             80
+[1] ""
+[1] "##################################################################"
+[1] "output-cluster-test-novella-robert-russel-1.csv"
+[1] ""
+[1] "Clustering baseline for trios"
+[1] ""
+                
+                 novella soto robert ryan russel isabell
+  novella soto            246           2              8
+  robert ryan               1         107              5
+  russel isabell            1           1            283
+[1] ""
+[1] "##################################################################"
+
+================================================================================================================
+
+
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-o-russel-1.csv"
+[1] ""
+[1] "Nuance Baseline for Trios: "
+                      
+                       errinn rebollar o gabrielle borneman
+  errinn rebollar                  337                    8
+  o gabrielle borneman             200                  437
+  russel isabell                    86                  210
+[1] ""
+[1] "##################################################################"
+
+
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-o-russel-1.csv"
+[1] ""
+[1] "Clustering => Nuance"
+[1] ""
+                      
+                       o gabrielle borneman
+  errinn rebollar                       383
+  o gabrielle borneman                  338
+  russel isabell                        505
+[1] ""
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-o-russel-1.csv"
+[1] ""
+[1] "Clustering baseline for trios"
+[1] ""
+                      
+                       errinn rebollar o gabrielle borneman russel isabell
+  errinn rebollar                  337                   60             13
+  o gabrielle borneman               1                  267             82
+  russel isabell                    10                  310            201
+
+[1] ""
+[1] "##################################################################"
+
+================================================================================================================
+
+[1] "o gabrielle borneman" "errinn rebollar"      "novela soto"          "russel isabell"       "robert ryan"         
+[1] "##################################################################"
+[1] "output-cluster-test-o-robert-russel-1.csv"
+[1] ""
+[1] "Nuance Baseline for Trios: "
+                      
+                       o gabrielle borneman robert ryan
+  o gabrielle borneman                  451         186
+  robert ryan                            28          82
+  russel isabell                        230          66
+[1] ""
+[1] "##################################################################"
+
+[1] "##################################################################"
+[1] "output-cluster-test-o-robert-russel-1.csv"
+[1] ""
+[1] "Clustering => Nuance"
+[1] ""
+                      
+                       o gabrielle borneman robert ryan russel isabell
+  o gabrielle borneman                  488         121             47
+  robert ryan                            74          98             32
+  russel isabell                         85          60             12
+[1] ""
+[1] "##################################################################"
+[1] "output-cluster-test-o-robert-russel-1.csv"
+[1] ""
+[1] "Clustering baseline for trios"
+[1] ""
+                      
+                       o gabrielle borneman robert ryan russel isabell
+  o gabrielle borneman                  466           1            210
+  robert ryan                            44         109             54
+  russel isabell                        127           0             32
+[1] ""
+[1] "##################################################################"
+
+================================================================================================================
+
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-robert-russel-1.csv"
+[1] ""
+[1] "Nuance Baseline for Trios: "
+                 
+                  errinn rebollar robert ryan
+  errinn rebollar             252          93
+  robert ryan                  81          29
+  russel isabell              211          85
+[1] ""
+[1] "##################################################################"
+
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-robert-russel-1.csv"
+[1] ""
+[1] "Clustering => Nuance"
+[1] ""
+                 
+                  errinn rebollar robert ryan russel isabell
+  errinn rebollar             228         121             28
+  robert ryan                  13           5              3
+  russel isabell              147          86             33
+[1] ""
+[1] "##################################################################"
+[1] "output-cluster-test-errinn-robert-russel-1.csv"
+[1] ""
+[1] "Clustering baseline for trios"
+[1] ""
+                 
+                  errinn rebollar robert ryan russel isabell
+  errinn rebollar             313          94              0
+  robert ryan                  22          15             14
+  russel isabell               13           1            282
+[1] ""
+[1] "##################################################################"
+
+================================================================================================================
+

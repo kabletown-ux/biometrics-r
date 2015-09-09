@@ -1,0 +1,957 @@
+map file, predicted speaker, real speaker, predicted speaker trained, identified as, identity score, sample length, sample name
+katrina-o-russel,katrina houlahan,katrina houlahan,true,NA,NA,NA,TRAINED: katrina+houlahan_2015-03-16+02-56-57_5258145765174457799_Family+feud_2304.wav
+katrina-o-russel,russel isabell,katrina houlahan,true,russel isabell,46,2.6853749752044678,katrina+houlahan_2015-03-16+02-55-16_5258145765174457799_Guide_2302.wav
+katrina-o-russel,o gabrielle borneman,katrina houlahan,true,russel isabell,30,2.6253750324249268,katrina+houlahan_2015-03-16+02-55-53_5258145765174457799_Family+guy_2303.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,NA,NA,NA,TRAINED: katrina+houlahan_2015-03-16+02-57-29_5258145765174457799_Family+guy_2305.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,NA,NA,NA,TRAINED: katrina+houlahan_2015-03-16+02-58-20_5258145765174457799_Up_2307.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,NA,NA,NA,TRAINED: katrina+houlahan_2015-03-16+02-57-55_5258145765174457799_Guide_2306.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,NA,NA,NA,TRAINED: katrina+houlahan_2015-03-16+02-58-44_5258145765174457799_Family+feud_2308.wav
+katrina-o-russel,russel isabell,katrina houlahan,true,katrina houlahan,81,7.725375175476074,katrina+houlahan_2015-03-16+03-02-31_5258145765174457799_Baggage+is+it_2310.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,NA,NA,NA,TRAINED: katrina+houlahan_2015-03-16+08-04-22_5258145765174457799_A+24_2311.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,NA,NA,NA,TRAINED: katrina+houlahan_2015-03-16+13-08-15_5258145765174457799_Pittsburgh+today+live_2312.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,katrina houlahan,68,7.825375080108643,katrina+houlahan_2015-03-16+16-28-28_5258145765174457799_What+not+to+wear_2313.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,NA,NA,NA,TRAINED: katrina+houlahan_2015-03-17+14-22-40_5258145765174457799_TruTV+presents_2318.wav
+katrina-o-russel,russel isabell,katrina houlahan,true,katrina houlahan,44,4.681375026702881,katrina+houlahan_2015-03-17+14-23-07_5258145765174457799_What_2319.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,NA,NA,NA,TRAINED: katrina+houlahan_2015-03-17+14-23-19_5258145765174457799_Malcolm+in+the+middle_2320.wav
+katrina-o-russel,russel isabell,katrina houlahan,true,katrina houlahan,8,6.185375213623047,katrina+houlahan_2015-03-18+13-24-05_5258145765174457799_Pittsburgh+today+live_2321.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,NA,NA,NA,TRAINED: katrina+houlahan_2015-03-19+09-41-39_5258145765174457799_King+of+the+hill_2324.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,NA,NA,NA,TRAINED: katrina+houlahan_2015-03-19+09-55-01_5258145765174457799_Married+with+children_2326.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,NA,NA,NA,TRAINED: katrina+houlahan_2015-03-19+09-55-15_5258145765174457799_Married+with+children_2325.wav
+katrina-o-russel,russel isabell,katrina houlahan,true,katrina houlahan,94,4.625374794006348,katrina+houlahan_2015-03-19+09-55-54_5258145765174457799_Penn+married+with+children_2327.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,NA,NA,NA,TRAINED: katrina+houlahan_2015-03-19+09-57-43_5258145765174457799_Say+anything+married+with+children_2328.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,NA,NA,NA,TRAINED: katrina+houlahan_2015-03-19+09-57-55_5258145765174457799_Married+with+children_2329.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,katrina houlahan,67,7.645374774932861,katrina+houlahan_2015-03-22+05-34-29_5258145765174457799_Game+channel+case+I_2331.wav
+katrina-o-russel,katrina houlahan,katrina houlahan,true,russel isabell,49,7.86537504196167,katrina+houlahan_2015-03-22+05-35-17_5258145765174457799_Game+show+network_2332.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-02+19-13-02_2850457086687792659_156_1609.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,katrina houlahan,70,5.105374813079834,o+gabrielle+borneman_2015-04-03+14-22-28_2850457086687792659_Golf+channel_1612.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,72,5.265375137329102,o+gabrielle+borneman_2015-04-02+22-14-13_2850457086687792659_CBS_1611.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,75,7.58537483215332,o+gabrielle+borneman_2015-04-03+22-31-19_2850457086687792659_Golf+channel_1616.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,73,3.6253750324249268,o+gabrielle+borneman_2015-04-03+22-48-20_2850457086687792659_CBS_1617.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,84,7.745375156402588,o+gabrielle+borneman_2015-04-03+22-49-56_2850457086687792659_NBA+network_1618.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,57,3.8173749446868896,o+gabrielle+borneman_2015-04-03+22-52-59_2850457086687792659_CBS_1619.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,71,2.6253750324249268,o+gabrielle+borneman_2015-04-03+23-25-09_2850457086687792659_NBA_1621.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,84,6.649374961853027,o+gabrielle+borneman_2015-04-03+23-28-12_2850457086687792659_ESPN_1622.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,70,7.709374904632568,o+gabrielle+borneman_2015-04-03+23-37-25_2850457086687792659_TNT_1624.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,47,7.58537483215332,o+gabrielle+borneman_2015-04-04+05-31-42_2850457086687792659_156_1625.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,90,3.725374937057495,o+gabrielle+borneman_2015-04-04+06-36-48_2850457086687792659_NFL+network_1626.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,77,5.185375213623047,o+gabrielle+borneman_2015-04-04+12-25-58_2850457086687792659_NFL+network_1628.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-04+13-19-02_2850457086687792659_Golf+channel_1629.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,80,2.8253750801086426,o+gabrielle+borneman_2015-04-04+13-31-49_2850457086687792659_Golf+channel_1631.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,79,6.005374908447266,o+gabrielle+borneman_2015-04-04+13-21-16_2850457086687792659_TBS_1630.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,77,3.1253750324249268,o+gabrielle+borneman_2015-04-04+17-27-01_2850457086687792659_ESPN_1633.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,74,2.725374937057495,o+gabrielle+borneman_2015-04-04+17-28-11_2850457086687792659_TBS_1634.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,75,7.825375080108643,o+gabrielle+borneman_2015-04-04+17-30-56_2850457086687792659_156_1635.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,59,7.745375156402588,o+gabrielle+borneman_2015-04-04+21-00-20_2850457086687792659_Golf+channel_1638.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-04+23-19-50_2850457086687792659_CBS_1640.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,59,7.58537483215332,o+gabrielle+borneman_2015-04-05+08-30-34_2850457086687792659_156_1642.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,49,7.7053751945495605,o+gabrielle+borneman_2015-04-05+14-21-41_2850457086687792659_156_1645.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-05+16-22-38_2850457086687792659_Golf+channel_1646.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,70,7.305375099182129,o+gabrielle+borneman_2015-04-05+20-44-39_2850457086687792659_Golf+channel_1648.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,69,3.745374917984009,o+gabrielle+borneman_2015-04-06+00-27-22_2850457086687792659_NBC_1649.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,55,7.825375080108643,o+gabrielle+borneman_2015-04-06+00-29-43_2850457086687792659_156_1650.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,78,6.925374984741211,o+gabrielle+borneman_2015-04-06+03-00-22_2850457086687792659_Golf+channel_1651.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,50,7.625374794006348,o+gabrielle+borneman_2015-04-06+04-56-31_2850457086687792659_156_1652.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-06+06-36-19_2850457086687792659_Support+your+local+gunfighter_1653.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,73,5.525374889373779,o+gabrielle+borneman_2015-04-06+20-44-51_2850457086687792659_CBS_1655.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,56,7.785375118255615,o+gabrielle+borneman_2015-04-06+17-59-56_2850457086687792659_156_1654.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,79,5.665375232696533,o+gabrielle+borneman_2015-04-06+22-53-09_2850457086687792659_CBS_1656.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,49,6.145374774932861,o+gabrielle+borneman_2015-04-07+02-22-17_2850457086687792659_56_1657.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,67,7.845375061035156,o+gabrielle+borneman_2015-04-07+02-22-53_2850457086687792659_156_1658.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,19,3.4453749656677246,o+gabrielle+borneman_2015-04-07+02-36-28_2850457086687792659_NFL_1659.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-07+02-36-13_2850457086687792659_NFL+network_1662.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,82,3.725374937057495,o+gabrielle+borneman_2015-04-07+02-36-33_2850457086687792659_NFL+network_1660.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,83,4.445374965667725,o+gabrielle+borneman_2015-04-07+02-36-55_2850457086687792659_NFL+network_1663.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,67,4.065374851226807,o+gabrielle+borneman_2015-04-07+02-37-13_2850457086687792659_CBS_1661.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,80,4.265375137329102,o+gabrielle+borneman_2015-04-07+12-54-50_2850457086687792659_North+to+Alaska_1665.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-07+12-55-35_2850457086687792659_North+to+Alaska_1666.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,54,7.605374813079834,o+gabrielle+borneman_2015-04-07+12-57-35_2850457086687792659_Support+your+local+Sheriff_1667.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,84,5.817375183105469,o+gabrielle+borneman_2015-04-07+12-58-18_2850457086687792659_James+Garner_1668.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,71,3.2653748989105225,o+gabrielle+borneman_2015-04-07+23-09-46_2850457086687792659_CBS_1670.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,52,7.7053751945495605,o+gabrielle+borneman_2015-04-07+13-00-35_2850457086687792659_Tom+Selleck_1669.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,44,7.765375137329102,o+gabrielle+borneman_2015-04-07+23-10-18_2850457086687792659_Tom+Selleck_1671.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,47,3.7053749561309814,o+gabrielle+borneman_2015-04-08+01-18-27_2850457086687792659_156_1676.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,73,5.185375213623047,o+gabrielle+borneman_2015-04-08+01-18-46_2850457086687792659_Mr.+Smith+goes+to+Washington_1677.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-08+13-51-31_2850457086687792659_Golf+channel_1678.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,69,3.109375,o+gabrielle+borneman_2015-04-09+11-19-49_2850457086687792659_Golf+channel_1687.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,88,7.785375118255615,o+gabrielle+borneman_2015-04-08+23-10-14_2850457086687792659_ESPN_1682.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,90,3.6453750133514404,o+gabrielle+borneman_2015-04-09+11-24-05_2850457086687792659_NFL+network_1688.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,88,2.9453749656677246,o+gabrielle+borneman_2015-04-09+13-28-39_2850457086687792659_CBS+sports_1690.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,75,3.8453750610351562,o+gabrielle+borneman_2015-04-09+13-29-23_2850457086687792659_The+Masters_1692.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,69,3.1453750133514404,o+gabrielle+borneman_2015-04-09+14-03-24_2850457086687792659_ABC_1693.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-09+14-03-40_2850457086687792659_NBC_1694.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,74,2.545375108718872,o+gabrielle+borneman_2015-04-09+14-04-15_2850457086687792659_CBS_1695.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,69,2.229374885559082,o+gabrielle+borneman_2015-04-09+14-05-04_2850457086687792659_Alpha+channel_1697.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,83,2.9453749656677246,o+gabrielle+borneman_2015-04-09+14-05-21_2850457086687792659_Golf+channel_1698.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-09+17-54-06_2850457086687792659_The+Masters_1700.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,80,6.997375011444092,o+gabrielle+borneman_2015-04-09+14-37-49_2850457086687792659_NFL+network_1699.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,82,6.729374885559082,o+gabrielle+borneman_2015-04-09+17-54-39_2850457086687792659_ESPN_1701.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,70,3.1533749103546143,o+gabrielle+borneman_2015-04-09+18-10-52_2850457086687792659_Golf+channel_1703.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-09+18-11-20_2850457086687792659_ES+PN_1704.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-09+18-15-55_2850457086687792659_The+Masters_1706.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,81,2.485374927520752,o+gabrielle+borneman_2015-04-09+23-09-10_2850457086687792659_CBS_1709.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,68,7.58537483215332,o+gabrielle+borneman_2015-04-10+02-36-52_2850457086687792659_The+Buddy+Holly+story_1712.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,katrina houlahan,50,2.105375051498413,o+gabrielle+borneman_2015-04-10+05-45-32_2850457086687792659_Golf+channel_1713.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-10+07-36-47_2850457086687792659_Contact_1715.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,87,6.925374984741211,o+gabrielle+borneman_2015-04-10+05-49-45_2850457086687792659_NFL+network_1714.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,56,5.625374794006348,o+gabrielle+borneman_2015-04-10+10-40-45_2850457086687792659_Outlaw+Josie+wales_1717.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,40,7.745375156402588,o+gabrielle+borneman_2015-04-10+10-41-19_2850457086687792659_The+last+Boy+Scout_1718.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,62,4.905375003814697,o+gabrielle+borneman_2015-04-10+10-44-31_2850457086687792659_Six+flags_1719.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,42,3.733375072479248,o+gabrielle+borneman_2015-04-10+10-45-23_2850457086687792659_The+sixth+sense_1721.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,66,7.7053751945495605,o+gabrielle+borneman_2015-04-10+10-45-24_2850457086687792659_The+six+cents_1720.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,34,5.0133748054504395,o+gabrielle+borneman_2015-04-10+10-47-00_2850457086687792659_The+gift_1722.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-10+14-12-47_2850457086687792659_Golf+channel_1724.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,49,7.765375137329102,o+gabrielle+borneman_2015-04-10+10-48-19_2850457086687792659_156_1723.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,77,2.485374927520752,o+gabrielle+borneman_2015-04-10+14-17-11_2850457086687792659_NFL+network_1725.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,55,2.86537504196167,o+gabrielle+borneman_2015-04-10+19-26-25_2850457086687792659_The+Masters_1729.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-10+23-18-29_2850457086687792659_CBS_1732.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,77,7.905375003814697,o+gabrielle+borneman_2015-04-11+00-07-10_2850457086687792659_NBA+network_1733.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-11+00-07-44_2850457086687792659_ESPN_1734.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,74,7.7053751945495605,o+gabrielle+borneman_2015-04-11+00-16-50_2850457086687792659_Detroit+pistons_1735.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,75,2.6853749752044678,o+gabrielle+borneman_2015-04-11+00-19-04_2850457086687792659_Detroit+pistons_1736.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,73,3.5253748893737793,o+gabrielle+borneman_2015-04-11+01-06-18_2850457086687792659_NFL+network_1737.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,52,4.045374870300293,o+gabrielle+borneman_2015-04-11+02-04-26_2850457086687792659_Detroit+Pistons_1740.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,31,5.325375080108643,o+gabrielle+borneman_2015-04-11+02-11-25_2850457086687792659_156_1741.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,64,2.6253750324249268,o+gabrielle+borneman_2015-04-11+13-22-10_2850457086687792659_The+Masters_1743.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,81,7.809374809265137,o+gabrielle+borneman_2015-04-11+13-16-15_2850457086687792659_NFL+network_1742.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,80,5.185375213623047,o+gabrielle+borneman_2015-04-11+19-13-33_2850457086687792659_The+Masters_1744.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-11+23-06-01_2850457086687792659_CBS_1745.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,53,7.785375118255615,o+gabrielle+borneman_2015-04-12+00-04-39_2850457086687792659_156_1747.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-13+17-53-34_2850457086687792659_NBA+network_1748.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,80,7.565374851226807,o+gabrielle+borneman_2015-04-13+17-54-46_2850457086687792659_NFL+network_1749.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,NA,NA,NA,TRAINED: o+gabrielle+borneman_2015-04-13+19-21-08_2850457086687792659_Family+feud_1750.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,78,3.0253748893737793,o+gabrielle+borneman_2015-04-13+19-55-10_2850457086687792659_NFL+network_1752.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,66,2.8253750801086426,o+gabrielle+borneman_2015-04-13+22-05-08_2850457086687792659_CW_1753.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,83,7.005374908447266,o+gabrielle+borneman_2015-04-13+22-47-09_2850457086687792659_And+have+L+network_1754.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,85,7.165375232696533,o+gabrielle+borneman_2015-04-13+22-47-31_2850457086687792659_NFL+network_1755.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,72,3.3453750610351562,o+gabrielle+borneman_2015-04-13+23-10-18_2850457086687792659_CBS_1757.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,61,7.605374813079834,o+gabrielle+borneman_2015-04-14+00-21-47_2850457086687792659_156_1759.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,71,2.8853750228881836,o+gabrielle+borneman_2015-04-14+05-57-48_2850457086687792659_Log+Josie+wales_1760.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,45,2.245374917984009,o+gabrielle+borneman_2015-04-14+06-02-32_2850457086687792659_Greece_1764.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,68,4.805375099182129,o+gabrielle+borneman_2015-04-14+06-02-20_2850457086687792659_Fast+Times+at+Ridgemont+high_1762.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,41,3.105375051498413,o+gabrielle+borneman_2015-04-14+06-02-56_2850457086687792659_Two_1765.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,71,3.725374937057495,o+gabrielle+borneman_2015-04-14+06-03-14_2850457086687792659_American+graffiti_1763.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,62,3.245374917984009,o+gabrielle+borneman_2015-04-14+06-03-22_2850457086687792659_Grease+two_1766.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,88,3.7853751182556152,o+gabrielle+borneman_2015-04-14+09-58-57_2850457086687792659_NFL+network_1767.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,65,6.673375129699707,o+gabrielle+borneman_2015-04-14+21-56-16_2850457086687792659_CW_1768.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,77,3.4533751010894775,o+gabrielle+borneman_2015-04-14+23-00-33_2850457086687792659_CBS_1770.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,38,2.605375051498413,o+gabrielle+borneman_2015-04-14+23-16-29_2850457086687792659_NBA_1771.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,59,7.937375068664551,o+gabrielle+borneman_2015-04-14+23-26-45_2850457086687792659_TNT_1772.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,68,3.173374891281128,o+gabrielle+borneman_2015-04-14+23-28-34_2850457086687792659_T+and+T_1773.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,55,7.825375080108643,o+gabrielle+borneman_2015-04-14+23-28-52_2850457086687792659_TNT_1774.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,83,4.161375045776367,o+gabrielle+borneman_2015-04-15+01-15-12_2850457086687792659_NFL+network_1775.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,56,7.605374813079834,o+gabrielle+borneman_2015-04-15+03-11-15_2850457086687792659_TNT_1776.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,61,7.413374900817871,o+gabrielle+borneman_2015-04-15+03-25-00_2850457086687792659_156_1777.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,81,4.049375057220459,o+gabrielle+borneman_2015-04-15+13-33-09_2850457086687792659_Golf+channel_1778.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,katrina houlahan,66,7.605374813079834,o+gabrielle+borneman_2015-04-15+13-37-08_2850457086687792659_LPGA_1779.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,68,4.465374946594238,o+gabrielle+borneman_2015-04-15+13-39-54_2850457086687792659_TCM_1780.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,65,2.9453749656677246,o+gabrielle+borneman_2015-04-15+13-43-29_2850457086687792659_AMC_1781.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,64,7.86537504196167,o+gabrielle+borneman_2015-04-15+13-43-47_2850457086687792659_AMC_1782.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,73,7.58537483215332,o+gabrielle+borneman_2015-04-15+13-50-06_2850457086687792659_NFL+network_1783.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,56,3.225374937057495,o+gabrielle+borneman_2015-04-15+20-52-57_2850457086687792659_156_1784.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,71,3.1453750133514404,o+gabrielle+borneman_2015-04-15+22-56-51_2850457086687792659_Golf+channel_1786.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,62,2.6453750133514404,o+gabrielle+borneman_2015-04-15+23-57-01_2850457086687792659_NBA_1788.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,63,4.86537504196167,o+gabrielle+borneman_2015-04-16+00-37-55_2850457086687792659_156_1789.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,76,4.165375232696533,o+gabrielle+borneman_2015-04-16+01-31-41_2850457086687792659_ESPN_1790.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,60,3.805375099182129,o+gabrielle+borneman_2015-04-16+15-13-50_2850457086687792659_156_1791.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,71,3.2173750400543213,o+gabrielle+borneman_2015-04-16+15-14-04_2850457086687792659_NFL_1792.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,69,7.729374885559082,o+gabrielle+borneman_2015-04-16+22-24-47_2850457086687792659_Golf+channel_1794.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,-42,6.625374794006348,o+gabrielle+borneman_2015-04-16+22-55-16_2850457086687792659_Yes_1795.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,55,3.3253750801086426,o+gabrielle+borneman_2015-04-16+22-57-45_2850457086687792659_CBS_1796.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,53,3.86537504196167,o+gabrielle+borneman_2015-04-17+03-19-18_2850457086687792659_156_1797.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,52,3.2853751182556152,o+gabrielle+borneman_2015-04-17+03-19-32_2850457086687792659_NFL_1798.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,67,7.58537483215332,o+gabrielle+borneman_2015-04-17+14-15-56_2850457086687792659_TCM_1799.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,62,3.045375108718872,o+gabrielle+borneman_2015-04-17+14-21-11_2850457086687792659_AMC_1800.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,46,2.8333749771118164,o+gabrielle+borneman_2015-04-17+16-43-35_2850457086687792659_Fred+Astaire_1801.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,katrina houlahan,74,7.845375061035156,o+gabrielle+borneman_2015-04-17+22-49-45_2850457086687792659_Golf+channel_1802.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,81,3.729374885559082,o+gabrielle+borneman_2015-04-17+22-50-52_2850457086687792659_CBS_1803.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,57,7.58537483215332,o+gabrielle+borneman_2015-04-17+22-54-15_2850457086687792659_156_1804.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,83,3.733375072479248,o+gabrielle+borneman_2015-04-18+13-31-18_2850457086687792659_NFL+network_1805.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,59,3.045375108718872,o+gabrielle+borneman_2015-04-18+15-38-08_2850457086687792659_NBA_1806.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,41,2.925374984741211,o+gabrielle+borneman_2015-04-18+16-25-18_2850457086687792659_T_1807.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,78,2.7853751182556152,o+gabrielle+borneman_2015-04-18+16-28-06_2850457086687792659_ABC_1809.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,70,7.885375022888184,o+gabrielle+borneman_2015-04-18+16-26-28_2850457086687792659_TNT_1808.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,85,7.825375080108643,o+gabrielle+borneman_2015-04-18+16-28-37_2850457086687792659_NBA+playoffs_1810.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,73,6.885375022888184,o+gabrielle+borneman_2015-04-18+16-35-16_2850457086687792659_NBA_1811.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,52,4.845375061035156,o+gabrielle+borneman_2015-04-18+16-36-45_2850457086687792659_TMC_1812.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,52,2.5053749084472656,o+gabrielle+borneman_2015-04-18+16-37-49_2850457086687792659_AMC_1813.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,58,2.5053749084472656,o+gabrielle+borneman_2015-04-18+17-27-10_2850457086687792659_ABC_1814.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,49,3.9053750038146973,o+gabrielle+borneman_2015-04-18+17-29-37_2850457086687792659_156_1815.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,79,3.6453750133514404,o+gabrielle+borneman_2015-04-18+18-07-01_2850457086687792659_NBA+network_1816.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,66,7.745375156402588,o+gabrielle+borneman_2015-04-18+18-07-01_2850457086687792659_TNT_1817.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,78,2.86537504196167,o+gabrielle+borneman_2015-04-18+18-07-30_2850457086687792659_TCM_1818.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,45,3.5653750896453857,o+gabrielle+borneman_2015-04-18+18-08-16_2850457086687792659_Clint+Eastwood_1819.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,68,7.58537483215332,o+gabrielle+borneman_2015-04-18+19-51-51_2850457086687792659_TNT_1820.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,65,3.5853750705718994,o+gabrielle+borneman_2015-04-18+19-53-59_2850457086687792659_AMC_1823.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,52,5.165375232696533,o+gabrielle+borneman_2015-04-18+19-54-27_2850457086687792659_A.m.+C_1821.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,37,5.825375080108643,o+gabrielle+borneman_2015-04-18+19-54-39_2850457086687792659_TCM_1824.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,70,7.825375080108643,o+gabrielle+borneman_2015-04-18+19-54-42_2850457086687792659_AMC_1822.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,77,7.677374839782715,o+gabrielle+borneman_2015-04-18+21-12-37_2850457086687792659_Golf+channel_1825.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,55,5.125374794006348,o+gabrielle+borneman_2015-04-18+21-16-34_2850457086687792659_TNT_1826.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,77,6.845375061035156,o+gabrielle+borneman_2015-04-18+22-58-17_2850457086687792659_TBS_1827.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,70,3.2853751182556152,o+gabrielle+borneman_2015-04-18+22-59-39_2850457086687792659_156_1829.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,59,6.885375022888184,o+gabrielle+borneman_2015-04-18+22-58-45_2850457086687792659_TNT_1828.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,83,6.145374774932861,o+gabrielle+borneman_2015-04-18+22-59-59_2850457086687792659_CBS_1830.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,76,2.729374885559082,o+gabrielle+borneman_2015-04-19+00-04-56_2850457086687792659_ABC_1831.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,69,7.745375156402588,o+gabrielle+borneman_2015-04-19+00-06-32_2850457086687792659_TNT_1834.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,69,3.985374927520752,o+gabrielle+borneman_2015-04-19+00-05-34_2850457086687792659_NB+a+network_1832.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,84,7.86537504196167,o+gabrielle+borneman_2015-04-19+00-05-51_2850457086687792659_N+BA+network_1833.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,57,7.7053751945495605,o+gabrielle+borneman_2015-04-19+00-07-37_2850457086687792659_156_1836.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,70,2.9653749465942383,o+gabrielle+borneman_2015-04-19+00-08-11_2850457086687792659_NBA+playoffs_1835.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,62,4.709374904632568,o+gabrielle+borneman_2015-04-19+04-53-41_2850457086687792659_Call+channel_1837.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,70,7.885375022888184,o+gabrielle+borneman_2015-04-19+04-53-58_2850457086687792659_Golf+channel_1838.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,12,2.2653748989105225,o+gabrielle+borneman_2015-04-19+08-21-51_2850457086687792659_56_1840.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,88,5.045374870300293,o+gabrielle+borneman_2015-04-19+07-21-12_2850457086687792659_ESPN_1839.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,61,4.105374813079834,o+gabrielle+borneman_2015-04-19+08-22-21_2850457086687792659_156_1841.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,27,3.2653748989105225,o+gabrielle+borneman_2015-04-19+08-22-46_2850457086687792659_Clint+Eastwood_1842.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,74,3.3853750228881836,o+gabrielle+borneman_2015-04-19+11-59-59_2850457086687792659_Golf+channel_1843.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,47,4.885375022888184,o+gabrielle+borneman_2015-04-19+12-07-43_2850457086687792659_156_1844.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,46,2.5653750896453857,o+gabrielle+borneman_2015-04-19+19-24-58_2850457086687792659_BBC_1845.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,69,3.5253748893737793,o+gabrielle+borneman_2015-04-19+19-56-56_2850457086687792659_Golf+channel_1847.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,61,7.709374904632568,o+gabrielle+borneman_2015-04-19+19-59-50_2850457086687792659_156_1848.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,77,2.9053750038146973,o+gabrielle+borneman_2015-04-19+23-18-24_2850457086687792659_CBS_1849.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,82,5.045374870300293,o+gabrielle+borneman_2015-04-19+23-18-44_2850457086687792659_Golf+channel_1850.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,68,6.825375080108643,o+gabrielle+borneman_2015-04-20+08-04-23_2850457086687792659_Golf+channel_1852.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,73,7.645374774932861,o+gabrielle+borneman_2015-04-20+08-21-05_2850457086687792659_Michelle+Wie+Hawaii+5O_1853.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,71,7.725375175476074,o+gabrielle+borneman_2015-04-20+08-21-42_2850457086687792659_Michelle+WIE+Hawaii+Five-0_1854.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,55,3.045375108718872,o+gabrielle+borneman_2015-04-20+15-04-03_2850457086687792659_Golf+channel_1856.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,62,4.157374858856201,o+gabrielle+borneman_2015-04-20+08-22-32_2850457086687792659_Michelle+Wii_1855.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,66,7.593375205993652,o+gabrielle+borneman_2015-04-20+22-46-16_2850457086687792659_CW_1857.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,katrina houlahan,68,7.86537504196167,o+gabrielle+borneman_2015-04-20+22-46-38_2850457086687792659_CBS_1858.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,46,5.805375099182129,o+gabrielle+borneman_2015-04-21+01-03-23_2850457086687792659_Golf+channel_1859.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,49,3.2653748989105225,o+gabrielle+borneman_2015-04-21+04-53-58_2850457086687792659_Magnum+force_1860.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,41,3.7853751182556152,o+gabrielle+borneman_2015-04-21+05-00-10_2850457086687792659_Charles+Bronson_1861.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,64,2.805375099182129,o+gabrielle+borneman_2015-04-21+05-08-41_2850457086687792659_Death+wish_1862.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,katrina houlahan,61,2.985374927520752,o+gabrielle+borneman_2015-04-21+05-09-07_2850457086687792659_Die+hard_1863.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,56,4.145374774932861,o+gabrielle+borneman_2015-04-21+07-50-27_2850457086687792659_156_1864.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,83,2.4453749656677246,o+gabrielle+borneman_2015-04-23+20-27-47_2850457086687792659_Golf+channel_1866.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,49,4.885375022888184,o+gabrielle+borneman_2015-04-21+07-51-40_2850457086687792659_156_1865.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,64,2.6453750133514404,o+gabrielle+borneman_2015-04-23+21-56-38_2850457086687792659_CW_1867.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,74,3.2013750076293945,o+gabrielle+borneman_2015-04-23+22-56-15_2850457086687792659_CBS_1868.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,43,4.36537504196167,o+gabrielle+borneman_2015-04-24+00-03-14_2850457086687792659_Lindsay+Lohan_1869.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,60,4.509375095367432,o+gabrielle+borneman_2015-04-24+00-07-37_2850457086687792659_Alfred+Hitchcock_1870.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,73,3.805375099182129,o+gabrielle+borneman_2015-04-24+22-22-52_2850457086687792659_CW_1871.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,67,4.157374858856201,o+gabrielle+borneman_2015-04-24+22-23-07_2850457086687792659_156_1872.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,80,7.7053751945495605,o+gabrielle+borneman_2015-04-24+23-57-48_2850457086687792659_156_1874.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,73,3.049375057220459,o+gabrielle+borneman_2015-04-25+02-09-05_2850457086687792659_Golf+channel_1875.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,62,4.245375156402588,o+gabrielle+borneman_2015-04-25+10-45-32_2850457086687792659_Golf+channel_1876.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,65,4.425374984741211,o+gabrielle+borneman_2015-04-25+10-57-11_2850457086687792659_156_1877.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,63,5.565374851226807,o+gabrielle+borneman_2015-04-25+19-32-00_2850457086687792659_T+and+T_1878.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,53,3.9653749465942383,o+gabrielle+borneman_2015-04-25+23-04-28_2850457086687792659_CBS_1879.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,60,6.065374851226807,o+gabrielle+borneman_2015-04-26+00-35-20_2850457086687792659_156_1880.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,79,3.8933749198913574,o+gabrielle+borneman_2015-04-26+17-33-20_2850457086687792659_TNT_1882.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,62,7.573375225067139,o+gabrielle+borneman_2015-04-26+04-25-35_2850457086687792659_156_1881.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,katrina houlahan,44,4.885375022888184,o+gabrielle+borneman_2015-04-26+17-33-43_2850457086687792659_ABC_1883.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,66,7.525374889373779,o+gabrielle+borneman_2015-04-26+18-31-10_2850457086687792659_156_1884.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,89,7.593375205993652,o+gabrielle+borneman_2015-04-26+19-32-53_2850457086687792659_NFL+network_1885.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,67,3.0853750705718994,o+gabrielle+borneman_2015-04-26+21-28-34_2850457086687792659_Golf+channel_1886.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,68,4.105374813079834,o+gabrielle+borneman_2015-04-27+02-16-38_2850457086687792659_156_1888.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,71,6.6413750648498535,o+gabrielle+borneman_2015-04-27+02-16-13_2850457086687792659_TNT_1887.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,82,4.125374794006348,o+gabrielle+borneman_2015-04-27+08-57-00_2850457086687792659_NFL+network_1889.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,53,7.725375175476074,o+gabrielle+borneman_2015-04-27+08-57-24_2850457086687792659_156_1890.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,61,5.981375217437744,o+gabrielle+borneman_2015-04-27+14-38-05_2850457086687792659_156_1891.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,68,6.445374965667725,o+gabrielle+borneman_2015-04-27+22-48-29_2850457086687792659_CBS_1892.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,80,3.2053749561309814,o+gabrielle+borneman_2015-04-28+01-00-18_2850457086687792659_TNT_1893.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,69,3.4653749465942383,o+gabrielle+borneman_2015-04-28+01-03-28_2850457086687792659_ABC_1894.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,55,4.765375137329102,o+gabrielle+borneman_2015-04-28+01-09-58_2850457086687792659_NBA_1895.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,69,5.813374996185303,o+gabrielle+borneman_2015-04-28+01-50-32_2850457086687792659_156_1896.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,81,3.6453750133514404,o+gabrielle+borneman_2015-04-28+23-05-04_2850457086687792659_CBS_1897.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,74,7.86537504196167,o+gabrielle+borneman_2015-04-28+23-41-52_2850457086687792659_TNT_1898.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,43,6.397375106811523,o+gabrielle+borneman_2015-04-28+23-58-18_2850457086687792659_NBA_1899.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,80,7.685375213623047,o+gabrielle+borneman_2015-04-28+23-58-59_2850457086687792659_ABA+right_1900.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,61,6.665375232696533,o+gabrielle+borneman_2015-04-28+23-59-18_2850457086687792659_ABC_1901.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,50,7.605374813079834,o+gabrielle+borneman_2015-04-29+00-00-49_2850457086687792659_NFL_1902.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,66,3.4053750038146973,o+gabrielle+borneman_2015-04-29+00-01-10_2850457086687792659_156_1903.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,85,7.717374801635742,o+gabrielle+borneman_2015-04-29+07-14-26_2850457086687792659_Encore+Westerns+the+Lone+Ranger_1905.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,54,3.733375072479248,o+gabrielle+borneman_2015-04-29+07-14-42_2850457086687792659_The+lone+ranger_1904.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,55,2.9053750038146973,o+gabrielle+borneman_2015-04-29+07-15-54_2850457086687792659_True+grit_1906.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,52,5.805375099182129,o+gabrielle+borneman_2015-04-29+07-16-25_2850457086687792659_Grit_1907.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,71,7.36537504196167,o+gabrielle+borneman_2015-04-29+07-17-43_2850457086687792659_John+Wayne+true+grit_1908.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,79,7.185375213623047,o+gabrielle+borneman_2015-04-29+07-17-43_2850457086687792659_True+grit_1909.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,67,3.5853750705718994,o+gabrielle+borneman_2015-04-29+07-18-40_2850457086687792659_Clayton+Moore_1910.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,53,4.649374961853027,o+gabrielle+borneman_2015-04-29+07-20-02_2850457086687792659_The+natural_1911.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,60,7.7053751945495605,o+gabrielle+borneman_2015-04-29+07-20-54_2850457086687792659_Cop+and+a+half_1912.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,52,4.945374965667725,o+gabrielle+borneman_2015-04-29+07-22-48_2850457086687792659_Cop+and+a+half_1913.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,80,3.485374927520752,o+gabrielle+borneman_2015-04-29+10-04-41_2850457086687792659_TBS_1914.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,57,2.7053749561309814,o+gabrielle+borneman_2015-04-29+22-55-45_2850457086687792659_CW_1915.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,67,3.5653750896453857,o+gabrielle+borneman_2015-04-29+23-01-16_2850457086687792659_CBS_1916.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,60,3.4053750038146973,o+gabrielle+borneman_2015-04-30+00-04-25_2850457086687792659_NBA_1917.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,40,7.825375080108643,o+gabrielle+borneman_2015-04-30+00-04-41_2850457086687792659_TNT_1918.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,72,7.7053751945495605,o+gabrielle+borneman_2015-04-30+00-06-19_2850457086687792659_156_1919.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,57,2.8853750228881836,o+gabrielle+borneman_2015-04-30+01-26-26_2850457086687792659_TNT_1920.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,75,5.305375099182129,o+gabrielle+borneman_2015-04-30+06-56-55_2850457086687792659_156_1921.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,85,2.9053750038146973,o+gabrielle+borneman_2015-04-30+13-35-43_2850457086687792659_Golf+channel_1922.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,43,1.8853750228881836,o+gabrielle+borneman_2015-04-30+22-02-02_2850457086687792659_W_1923.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,55,2.225374937057495,o+gabrielle+borneman_2015-04-30+22-02-15_2850457086687792659_CW_1924.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,61,2.6853749752044678,o+gabrielle+borneman_2015-04-30+22-30-05_2850457086687792659_NFL_1925.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,57,3.0253748893737793,o+gabrielle+borneman_2015-04-30+22-59-58_2850457086687792659_CBS_1926.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,78,3.605375051498413,o+gabrielle+borneman_2015-04-30+23-16-37_2850457086687792659_NFL+network_1927.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,30,4.665375232696533,o+gabrielle+borneman_2015-05-01+02-33-28_2850457086687792659_156_1928.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,60,4.185375213623047,o+gabrielle+borneman_2015-05-01+09-04-56_2850457086687792659_The+fastest+gun+alive_1929.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,37,3.7653748989105225,o+gabrielle+borneman_2015-05-01+13-22-46_2850457086687792659_Golf+channel_1930.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,52,4.145374774932861,o+gabrielle+borneman_2015-05-01+13-24-55_2850457086687792659_NFL_1931.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,76,4.685375213623047,o+gabrielle+borneman_2015-05-01+14-32-00_2850457086687792659_Golf+channel_1932.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,64,7.725375175476074,o+gabrielle+borneman_2015-05-01+20-47-14_2850457086687792659_156_1933.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,73,2.8373749256134033,o+gabrielle+borneman_2015-05-01+22-00-37_2850457086687792659_CW_1934.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,75,7.657374858856201,o+gabrielle+borneman_2015-05-01+22-58-47_2850457086687792659_CBS_1936.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,58,6.665375232696533,o+gabrielle+borneman_2015-05-01+23-00-17_2850457086687792659_PBS_1935.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,75,4.36537504196167,o+gabrielle+borneman_2015-05-02+00-10-56_2850457086687792659_156_1937.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,69,2.805375099182129,o+gabrielle+borneman_2015-05-02+15-37-33_2850457086687792659_Golf+channel_1938.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,76,3.0253748893737793,o+gabrielle+borneman_2015-05-02+16-25-25_2850457086687792659_NFL+network_1939.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,83,3.109375,o+gabrielle+borneman_2015-05-02+23-08-56_2850457086687792659_CBS_1940.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,55,3.8453750610351562,o+gabrielle+borneman_2015-05-03+04-01-23_2850457086687792659_156_1941.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,53,2.4533751010894775,o+gabrielle+borneman_2015-05-03+15-19-18_2850457086687792659_Golf+channel_1942.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,81,3.9653749465942383,o+gabrielle+borneman_2015-05-03+17-13-30_2850457086687792659_NFL+network_1943.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,69,7.725375175476074,o+gabrielle+borneman_2015-05-03+17-58-10_2850457086687792659_NBC_1944.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,82,3.3253750801086426,o+gabrielle+borneman_2015-05-03+17-58-33_2850457086687792659_NFL+network_1945.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,70,3.3453750610351562,o+gabrielle+borneman_2015-05-04+01-09-59_2850457086687792659_156_1946.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,71,3.4453749656677246,o+gabrielle+borneman_2015-05-04+12-30-28_2850457086687792659_NFL+network_1947.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,60,5.185375213623047,o+gabrielle+borneman_2015-05-04+18-12-09_2850457086687792659_Golf+channel_1948.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,75,4.885375022888184,o+gabrielle+borneman_2015-05-04+18-15-01_2850457086687792659_NFL+network_1949.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,65,3.1853749752044678,o+gabrielle+borneman_2015-05-04+21-59-23_2850457086687792659_CW_1950.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,82,7.845375061035156,o+gabrielle+borneman_2015-05-04+22-00-25_2850457086687792659_NFL+network_1951.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,54,3.545375108718872,o+gabrielle+borneman_2015-05-04+22-55-24_2850457086687792659_CBS_1952.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,72,3.349375009536743,o+gabrielle+borneman_2015-05-04+23-55-03_2850457086687792659_TNT_1953.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,43,2.609375,o+gabrielle+borneman_2015-05-05+03-31-02_2850457086687792659_NFL_1955.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,71,7.689374923706055,o+gabrielle+borneman_2015-05-05+00-10-54_2850457086687792659_NFL+network_1954.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,62,7.86537504196167,o+gabrielle+borneman_2015-05-05+03-31-28_2850457086687792659_TNT_1956.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,47,4.845375061035156,o+gabrielle+borneman_2015-05-05+16-16-54_2850457086687792659_156_1957.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,65,4.089375019073486,o+gabrielle+borneman_2015-05-05+23-03-44_2850457086687792659_See+BS_1958.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,77,3.9453749656677246,o+gabrielle+borneman_2015-05-05+23-04-06_2850457086687792659_CBS_1959.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,70,4.745375156402588,o+gabrielle+borneman_2015-05-05+23-56-20_2850457086687792659_TNT_1960.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,69,3.8253750801086426,o+gabrielle+borneman_2015-05-05+23-58-02_2850457086687792659_NBA_1961.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,53,4.36537504196167,o+gabrielle+borneman_2015-05-06+00-27-33_2850457086687792659_NFL_1963.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,69,3.169374942779541,o+gabrielle+borneman_2015-05-06+00-28-51_2850457086687792659_TNT_1962.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,79,5.165375232696533,o+gabrielle+borneman_2015-05-06+01-05-27_2850457086687792659_TNT_1964.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,43,2.86537504196167,o+gabrielle+borneman_2015-05-06+01-13-15_2850457086687792659_NFL_1965.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,83,6.593375205993652,o+gabrielle+borneman_2015-05-06+03-27-56_2850457086687792659_TNT_1966.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,60,3.7053749561309814,o+gabrielle+borneman_2015-05-06+05-59-37_2850457086687792659_156_1967.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,43,2.7053749561309814,o+gabrielle+borneman_2015-05-06+13-06-39_2850457086687792659_NFL_1968.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,73,3.8453750610351562,o+gabrielle+borneman_2015-05-06+23-25-27_2850457086687792659_CBS_1969.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,68,2.86537504196167,o+gabrielle+borneman_2015-05-07+12-28-13_2850457086687792659_NFL+network_1970.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,58,4.185375213623047,o+gabrielle+borneman_2015-05-08+11-16-08_2850457086687792659_156_1971.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,74,3.2653748989105225,o+gabrielle+borneman_2015-05-08+23-22-38_2850457086687792659_CBS_1972.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,64,5.545374870300293,o+gabrielle+borneman_2015-05-08+23-59-18_2850457086687792659_TCM_1973.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,38,3.305375099182129,o+gabrielle+borneman_2015-05-09+00-43-06_2850457086687792659_Ashley+Judd_1974.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,52,2.917375087738037,o+gabrielle+borneman_2015-05-09+00-46-09_2850457086687792659_The+big+easy_1975.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,54,4.505374908447266,o+gabrielle+borneman_2015-05-09+00-46-35_2850457086687792659_Wild+hogs_1976.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,77,3.6453750133514404,o+gabrielle+borneman_2015-05-09+00-47-34_2850457086687792659_Harrison+Ford_1977.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,75,7.58537483215332,o+gabrielle+borneman_2015-05-09+02-27-35_2850457086687792659_TNT+not+Pescy+Veltliner+Saettone_1978.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,62,2.485374927520752,o+gabrielle+borneman_2015-05-09+02-29-32_2850457086687792659_Save_1979.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,75,3.165374994277954,o+gabrielle+borneman_2015-05-09+02-30-03_2850457086687792659_NBA_1980.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,72,3.1453750133514404,o+gabrielle+borneman_2015-05-09+02-30-22_2850457086687792659_T+and+T_1981.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,69,3.925374984741211,o+gabrielle+borneman_2015-05-09+06-34-47_2850457086687792659_156_1982.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,76,3.105375051498413,o+gabrielle+borneman_2015-05-09+19-00-07_2850457086687792659_Golf+channel_1983.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,58,3.665374994277954,o+gabrielle+borneman_2015-05-10+04-57-17_2850457086687792659_And+56_1984.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,68,5.065374851226807,o+gabrielle+borneman_2015-05-10+04-57-40_2850457086687792659_156_1985.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,27,3.0053749084472656,o+gabrielle+borneman_2015-05-10+05-02-27_2850457086687792659_Jersey+boys_1986.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,37,2.8893749713897705,o+gabrielle+borneman_2015-05-10+11-18-04_2850457086687792659_NFL_1987.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,57,3.5853750705718994,o+gabrielle+borneman_2015-05-10+15-44-34_2850457086687792659_NBA_1988.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,katrina houlahan,50,4.053374767303467,o+gabrielle+borneman_2015-05-10+16-01-52_2850457086687792659_Golf+channel_1989.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,67,3.36537504196167,o+gabrielle+borneman_2015-05-10+19-23-46_2850457086687792659_ABC_1990.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,60,7.465374946594238,o+gabrielle+borneman_2015-05-10+22-29-06_2850457086687792659_156_1991.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,64,7.58537483215332,o+gabrielle+borneman_2015-05-10+22-29-40_2850457086687792659_156_1992.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,67,6.185375213623047,o+gabrielle+borneman_2015-05-11+00-56-53_2850457086687792659_TNT_1993.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,58,4.905375003814697,o+gabrielle+borneman_2015-05-11+01-17-51_2850457086687792659_NFL_1994.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,60,4.065374851226807,o+gabrielle+borneman_2015-05-11+10-06-49_2850457086687792659_156_1995.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,58,3.8133749961853027,o+gabrielle+borneman_2015-05-11+19-13-14_2850457086687792659_NFL_1996.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,20,1.6453750133514404,o+gabrielle+borneman_2015-05-11+20-32-48_2850457086687792659_Monk_1997.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,katrina houlahan,28,1.4093749523162842,o+gabrielle+borneman_2015-05-11+20-33-45_2850457086687792659_Inc._1998.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,32,2.1853749752044678,o+gabrielle+borneman_2015-05-11+20-33-58_2850457086687792659_Monk_1999.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,76,7.421374797821045,o+gabrielle+borneman_2015-05-11+22-57-42_2850457086687792659_CBS_2000.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,41,2.5853750705718994,o+gabrielle+borneman_2015-05-11+23-56-20_2850457086687792659_NBA_2001.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,67,1.5453749895095825,o+gabrielle+borneman_2015-05-11+23-57-33_2850457086687792659_T_2002.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,67,5.805375099182129,o+gabrielle+borneman_2015-05-11+23-57-47_2850457086687792659_TNT_2003.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,66,7.505374908447266,o+gabrielle+borneman_2015-05-12+01-14-44_2850457086687792659_NFL_2004.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,38,4.093375205993652,o+gabrielle+borneman_2015-05-12+01-55-40_2850457086687792659_156_2005.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,60,7.465374946594238,o+gabrielle+borneman_2015-05-12+08-17-05_2850457086687792659_156_2006.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,65,7.285375118255615,o+gabrielle+borneman_2015-05-12+08-17-29_2850457086687792659_NFL_2007.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,66,3.2653748989105225,o+gabrielle+borneman_2015-05-12+09-49-35_2850457086687792659_TBS_2008.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,67,3.0053749084472656,o+gabrielle+borneman_2015-05-12+16-52-09_2850457086687792659_NFL_2009.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,52,2.605375051498413,o+gabrielle+borneman_2015-05-12+21-59-47_2850457086687792659_CW_2010.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,78,7.745375156402588,o+gabrielle+borneman_2015-05-12+22-54-38_2850457086687792659_CBS_2011.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,74,7.86537504196167,o+gabrielle+borneman_2015-05-12+22-54-55_2850457086687792659_TNT_2012.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,72,4.833374977111816,o+gabrielle+borneman_2015-05-13+00-18-58_2850457086687792659_156_2013.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,38,3.225374937057495,o+gabrielle+borneman_2015-05-13+13-01-43_2850457086687792659_NFL_2014.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,58,3.5773749351501465,o+gabrielle+borneman_2015-05-13+22-52-32_2850457086687792659_CBS_2015.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,67,3.3853750228881836,o+gabrielle+borneman_2015-05-13+23-23-03_2850457086687792659_TNT_2016.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,53,7.685375213623047,o+gabrielle+borneman_2015-05-13+23-23-27_2850457086687792659_ABC_2017.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,67,2.985374927520752,o+gabrielle+borneman_2015-05-13+23-24-00_2850457086687792659_TNT_2018.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,72,3.725374937057495,o+gabrielle+borneman_2015-05-13+23-24-11_2850457086687792659_CBS_2019.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,45,4.145374774932861,o+gabrielle+borneman_2015-05-13+23-27-19_2850457086687792659_NBA_2020.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,63,6.785375118255615,o+gabrielle+borneman_2015-05-13+23-27-58_2850457086687792659_AB+C_2021.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,68,3.805375099182129,o+gabrielle+borneman_2015-05-13+23-28-23_2850457086687792659_TNT_2022.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,62,4.005374908447266,o+gabrielle+borneman_2015-05-13+23-28-45_2850457086687792659_ABC_2023.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,66,3.165374994277954,o+gabrielle+borneman_2015-05-13+23-29-13_2850457086687792659_CBS_2024.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,67,3.4453749656677246,o+gabrielle+borneman_2015-05-13+23-41-59_2850457086687792659_In+BA_2025.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,47,5.86537504196167,o+gabrielle+borneman_2015-05-13+23-42-14_2850457086687792659_NBA_2026.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,43,2.985374927520752,o+gabrielle+borneman_2015-05-14+00-00-26_2850457086687792659_ABC_2027.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,71,3.3893749713897705,o+gabrielle+borneman_2015-05-14+00-01-14_2850457086687792659_TNT_2028.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,41,2.5653750896453857,o+gabrielle+borneman_2015-05-14+00-02-14_2850457086687792659_NFL_2029.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,63,3.105375051498413,o+gabrielle+borneman_2015-05-14+18-03-25_2850457086687792659_Golf+channel_2030.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,72,3.9053750038146973,o+gabrielle+borneman_2015-05-14+18-08-03_2850457086687792659_156_2031.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,72,3.165374994277954,o+gabrielle+borneman_2015-05-14+20-42-01_2850457086687792659_TBS_2032.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,71,2.925374984741211,o+gabrielle+borneman_2015-05-14+21-33-30_2850457086687792659_CW_2033.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,55,2.5253748893737793,o+gabrielle+borneman_2015-05-14+22-13-56_2850457086687792659_NFL_2034.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,73,3.8453750610351562,o+gabrielle+borneman_2015-05-14+23-12-28_2850457086687792659_CBS_2035.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,66,4.485374927520752,o+gabrielle+borneman_2015-05-14+23-26-13_2850457086687792659_TNT_2036.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,73,2.8453750610351562,o+gabrielle+borneman_2015-05-14+23-26-32_2850457086687792659_ABC_2037.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,49,2.497375011444092,o+gabrielle+borneman_2015-05-14+23-26-51_2850457086687792659_NBA_2038.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,76,3.6853749752044678,o+gabrielle+borneman_2015-05-14+23-29-57_2850457086687792659_CBS_2039.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,72,7.7053751945495605,o+gabrielle+borneman_2015-05-15+00-03-20_2850457086687792659_TNT_2040.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,61,4.2053751945495605,o+gabrielle+borneman_2015-05-15+00-03-42_2850457086687792659_ABC_2041.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,54,2.6853749752044678,o+gabrielle+borneman_2015-05-15+00-04-27_2850457086687792659_NBA_2042.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,77,3.0053749084472656,o+gabrielle+borneman_2015-05-15+00-06-56_2850457086687792659_Golf+channel_2043.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,65,3.173374891281128,o+gabrielle+borneman_2015-05-15+00-08-26_2850457086687792659_TNT_2044.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,katrina houlahan,38,7.745375156402588,o+gabrielle+borneman_2015-05-15+00-09-08_2850457086687792659_ABC_2045.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,70,6.993374824523926,o+gabrielle+borneman_2015-05-15+00-09-46_2850457086687792659_156_2046.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,63,3.0013749599456787,o+gabrielle+borneman_2015-05-15+00-41-10_2850457086687792659_TNT_2047.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,53,3.0053749084472656,o+gabrielle+borneman_2015-05-15+00-41-23_2850457086687792659_ABC_2048.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,61,2.289375066757202,o+gabrielle+borneman_2015-05-15+00-41-41_2850457086687792659_NBA_2049.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,62,4.145374774932861,o+gabrielle+borneman_2015-05-15+00-49-41_2850457086687792659_TNT_2050.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,60,2.745374917984009,o+gabrielle+borneman_2015-05-15+00-52-41_2850457086687792659_ABC_2051.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,51,3.3853750228881836,o+gabrielle+borneman_2015-05-15+01-06-28_2850457086687792659_ABC_2052.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,65,3.2653748989105225,o+gabrielle+borneman_2015-05-15+01-06-53_2850457086687792659_TNT_2053.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,69,2.793375015258789,o+gabrielle+borneman_2015-05-15+01-07-19_2850457086687792659_TBS_2054.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,37,2.5613749027252197,o+gabrielle+borneman_2015-05-15+01-07-54_2850457086687792659_NBA_2055.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,77,6.485374927520752,o+gabrielle+borneman_2015-05-15+01-21-54_2850457086687792659_TNT_2056.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,66,2.6453750133514404,o+gabrielle+borneman_2015-05-15+01-24-24_2850457086687792659_ABC_2057.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,68,7.861374855041504,o+gabrielle+borneman_2015-05-15+01-24-49_2850457086687792659_NBC_2058.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,53,3.1453750133514404,o+gabrielle+borneman_2015-05-15+01-25-55_2850457086687792659_NBA_2059.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,69,3.5053749084472656,o+gabrielle+borneman_2015-05-15+01-31-04_2850457086687792659_ESPN_2060.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,62,4.525374889373779,o+gabrielle+borneman_2015-05-15+07-02-22_2850457086687792659_NFL_2061.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,17,4.86537504196167,o+gabrielle+borneman_2015-05-15+08-01-31_2850457086687792659_1536_2062.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,50,3.8253750801086426,o+gabrielle+borneman_2015-05-15+08-01-54_2850457086687792659_156_2063.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,67,3.3453750610351562,o+gabrielle+borneman_2015-05-15+20-35-24_2850457086687792659_Golf+channel_2064.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,71,3.4453749656677246,o+gabrielle+borneman_2015-05-15+21-39-20_2850457086687792659_156_2065.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,62,2.6853749752044678,o+gabrielle+borneman_2015-05-15+22-16-56_2850457086687792659_CW_2066.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,83,7.625374794006348,o+gabrielle+borneman_2015-05-15+23-00-29_2850457086687792659_CBS+7+o'clock+will+horror_2067.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,74,5.125374794006348,o+gabrielle+borneman_2015-05-15+23-00-45_2850457086687792659_CBS_2068.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,21,3.8253750801086426,o+gabrielle+borneman_2015-05-16+02-15-44_2850457086687792659_Bye-bye+love_2069.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,82,7.565374851226807,o+gabrielle+borneman_2015-05-16+04-27-53_2850457086687792659_The+big+easy_2070.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,61,3.1253750324249268,o+gabrielle+borneman_2015-05-16+04-28-12_2850457086687792659_The+sign_2071.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,katrina houlahan,26,2.7053749561309814,o+gabrielle+borneman_2015-05-16+04-30-12_2850457086687792659_Hardball_2072.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,61,6.145374774932861,o+gabrielle+borneman_2015-05-16+04-30-22_2850457086687792659_Kanary+Yvess_2073.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,56,5.1373748779296875,o+gabrielle+borneman_2015-05-16+04-31-00_2850457086687792659_Kyana+Reeves_2074.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,75,7.86537504196167,o+gabrielle+borneman_2015-05-16+04-31-19_2850457086687792659_Kyana+Reeves_2075.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,69,3.8253750801086426,o+gabrielle+borneman_2015-05-16+04-38-19_2850457086687792659_Sleeping+with+the+enemy_2076.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,67,3.6453750133514404,o+gabrielle+borneman_2015-05-16+04-42-16_2850457086687792659_The+gift_2077.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,76,3.1253750324249268,o+gabrielle+borneman_2015-05-16+15-15-50_2850457086687792659_Golf+channel_2078.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,73,5.405375003814697,o+gabrielle+borneman_2015-05-16+20-09-35_2850457086687792659_156_2079.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,57,5.605374813079834,o+gabrielle+borneman_2015-05-16+20-25-17_2850457086687792659_Support+your+local+Sheriff_2080.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,60,5.2053751945495605,o+gabrielle+borneman_2015-05-16+20-25-39_2850457086687792659_Support+your+local+Sheriff_2081.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,61,7.565374851226807,o+gabrielle+borneman_2015-05-16+20-25-56_2850457086687792659_Support+your+local+gunfighter_2082.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,71,3.1933751106262207,o+gabrielle+borneman_2015-05-16+20-26-44_2850457086687792659_The+Apple+dumpling+gang_2083.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,58,3.305375099182129,o+gabrielle+borneman_2015-05-16+20-26-59_2850457086687792659_Cat+Ballou_2084.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,32,3.7653748989105225,o+gabrielle+borneman_2015-05-16+20-27-29_2850457086687792659_Rio+bravo_2085.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,36,3.305375099182129,o+gabrielle+borneman_2015-05-16+20-27-45_2850457086687792659_El+Dorado_2086.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,51,7.849374771118164,o+gabrielle+borneman_2015-05-16+20-27-58_2850457086687792659_True+grit_2087.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,39,2.9453749656677246,o+gabrielle+borneman_2015-05-16+20-29-02_2850457086687792659_The+Cowboys_2088.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,55,4.265375137329102,o+gabrielle+borneman_2015-05-16+20-29-30_2850457086687792659_The+Cowboys_2089.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,40,3.925374984741211,o+gabrielle+borneman_2015-05-16+20-29-51_2850457086687792659_Support+your+local+Sheriff_2090.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,69,6.37737512588501,o+gabrielle+borneman_2015-05-16+20-30-18_2850457086687792659_Jeremiah+Johnson_2091.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,76,7.86537504196167,o+gabrielle+borneman_2015-05-16+20-30-46_2850457086687792659_Dances+with+wolves_2092.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,78,4.145374774932861,o+gabrielle+borneman_2015-05-16+20-31-50_2850457086687792659_Just+you+and+me+kid_2093.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,73,3.805375099182129,o+gabrielle+borneman_2015-05-16+20-32-07_2850457086687792659_Going+in+style_2094.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,73,2.5853750705718994,o+gabrielle+borneman_2015-05-16+20-32-25_2850457086687792659_You+and+me+kid_2095.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,17,2.5653750896453857,o+gabrielle+borneman_2015-05-16+20-33-02_2850457086687792659_Cobra_2096.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,59,3.9453749656677246,o+gabrielle+borneman_2015-05-16+20-33-51_2850457086687792659_Lone+Wolf+McQuade_2098.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,37,3.305375099182129,o+gabrielle+borneman_2015-05-16+20-33-25_2850457086687792659_Lone+Wolf+McQuade_2097.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,82,3.3893749713897705,o+gabrielle+borneman_2015-05-16+20-34-07_2850457086687792659_Chuck+Norris_2099.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,54,3.8133749961853027,o+gabrielle+borneman_2015-05-16+20-36-43_2850457086687792659_Code+of+silence_2100.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,71,4.885375022888184,o+gabrielle+borneman_2015-05-16+23-05-50_2850457086687792659_CBS_2101.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,46,4.785375118255615,o+gabrielle+borneman_2015-05-17+00-45-51_2850457086687792659_NBA_2102.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,60,7.717374801635742,o+gabrielle+borneman_2015-05-17+00-47-06_2850457086687792659_156+will+figure+out+somewhere+in+a+second_2103.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,51,2.6853749752044678,o+gabrielle+borneman_2015-05-17+10-48-14_2850457086687792659_NFL_2104.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,47,3.7853751182556152,o+gabrielle+borneman_2015-05-17+10-51-13_2850457086687792659_156_2105.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,59,7.465374946594238,o+gabrielle+borneman_2015-05-17+19-47-46_2850457086687792659_Golf+channel_2106.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,katrina houlahan,25,2.425374984741211,o+gabrielle+borneman_2015-05-17+21-10-23_2850457086687792659_Bravo_2107.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,80,4.737374782562256,o+gabrielle+borneman_2015-05-17+21-24-59_2850457086687792659_Golf+channel_2108.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,79,7.625374794006348,o+gabrielle+borneman_2015-05-17+22-02-50_2850457086687792659_ESPN_2109.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,24,2.6253750324249268,o+gabrielle+borneman_2015-05-17+22-03-11_2850457086687792659_NBA_2110.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,49,2.4453749656677246,o+gabrielle+borneman_2015-05-17+22-03-58_2850457086687792659_TNT_2111.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,67,7.86537504196167,o+gabrielle+borneman_2015-05-17+22-04-20_2850457086687792659_ABA+outcrop+ABC_2112.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,42,2.8453750610351562,o+gabrielle+borneman_2015-05-17+22-04-56_2850457086687792659_ABC_2113.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,87,2.5773749351501465,o+gabrielle+borneman_2015-05-17+22-09-57_2850457086687792659_ESPN_2114.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,katrina houlahan,46,3.2853751182556152,o+gabrielle+borneman_2015-05-18+16-02-07_2850457086687792659_Bravo_2116.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,85,3.1453750133514404,o+gabrielle+borneman_2015-05-18+02-28-40_2850457086687792659_Golf+channel_2115.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,67,3.857374906539917,o+gabrielle+borneman_2015-05-18+16-02-38_2850457086687792659_156_2117.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,55,2.3253750801086426,o+gabrielle+borneman_2015-05-18+22-16-14_2850457086687792659_CBS_2118.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,20,6.58537483215332,o+gabrielle+borneman_2015-05-19+01-42-23_2850457086687792659_BA_2119.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,60,7.825375080108643,o+gabrielle+borneman_2015-05-19+01-42-50_2850457086687792659_NBA_2120.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,68,4.36537504196167,o+gabrielle+borneman_2015-05-19+01-43-57_2850457086687792659_TNT_2121.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,katrina houlahan,29,3.4653749465942383,o+gabrielle+borneman_2015-05-19+01-44-10_2850457086687792659_ABA_2122.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,51,6.845375061035156,o+gabrielle+borneman_2015-05-19+01-44-29_2850457086687792659_ABC_2123.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,80,6.845375061035156,o+gabrielle+borneman_2015-05-19+01-44-36_2850457086687792659_ESPN_2124.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,32,2.7853751182556152,o+gabrielle+borneman_2015-05-19+11-04-35_2850457086687792659_NFL_2126.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,63,7.725375175476074,o+gabrielle+borneman_2015-05-19+01-45-11_2850457086687792659_156_2125.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,10,3.9053750038146973,o+gabrielle+borneman_2015-05-19+20-33-47_2850457086687792659_Bravo_2127.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,66,4.7053751945495605,o+gabrielle+borneman_2015-05-19+22-53-09_2850457086687792659_TBS_2128.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,32,2.5173749923706055,o+gabrielle+borneman_2015-05-19+22-53-34_2850457086687792659_NFL_2129.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,68,2.789375066757202,o+gabrielle+borneman_2015-05-19+22-53-43_2850457086687792659_CBS_2130.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,67,3.9053750038146973,o+gabrielle+borneman_2015-05-19+23-57-48_2850457086687792659_NBA_2131.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,67,4.905375003814697,o+gabrielle+borneman_2015-05-20+01-21-30_2850457086687792659_ESPN_2132.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,54,1.9853750467300415,o+gabrielle+borneman_2015-05-20+01-37-54_2850457086687792659_NFL_2133.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,46,5.0133748054504395,o+gabrielle+borneman_2015-05-20+04-06-34_2850457086687792659_156_2134.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,25,3.2053749561309814,o+gabrielle+borneman_2015-05-20+12-26-28_2850457086687792659_156_2135.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,47,2.0053749084472656,o+gabrielle+borneman_2015-05-20+21-56-11_2850457086687792659_CW_2136.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,65,3.5653750896453857,o+gabrielle+borneman_2015-05-20+23-02-21_2850457086687792659_CBS_2137.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,17,2.937375068664551,o+gabrielle+borneman_2015-05-20+23-07-30_2850457086687792659_NFL_2138.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,71,3.805375099182129,o+gabrielle+borneman_2015-05-20+23-57-10_2850457086687792659_ESPN_2139.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,85,1.765375018119812,o+gabrielle+borneman_2015-05-20+23-58-14_2850457086687792659_TNT_2140.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,60,4.665375232696533,o+gabrielle+borneman_2015-05-20+23-58-24_2850457086687792659_ABC_2141.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,80,7.86537504196167,o+gabrielle+borneman_2015-05-20+23-58-39_2850457086687792659_ESPN+30+sure+guide_2142.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,74,3.1253750324249268,o+gabrielle+borneman_2015-05-20+23-59-00_2850457086687792659_ESPN_2143.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,42,2.5653750896453857,o+gabrielle+borneman_2015-05-20+23-59-28_2850457086687792659_NBA_2144.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,74,4.245375156402588,o+gabrielle+borneman_2015-05-21+00-00-00_2850457086687792659_TNT_2145.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,85,3.2653748989105225,o+gabrielle+borneman_2015-05-21+00-17-41_2850457086687792659_NFL_2146.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,32,2.4333748817443848,o+gabrielle+borneman_2015-05-21+03-12-15_2850457086687792659_David+Letterman_2147.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,69,3.969374895095825,o+gabrielle+borneman_2015-05-21+03-12-47_2850457086687792659_CBS_2148.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,57,3.3253750801086426,o+gabrielle+borneman_2015-05-21+12-51-38_2850457086687792659_156_2149.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,78,6.313374996185303,o+gabrielle+borneman_2015-05-21+19-37-49_2850457086687792659_NFL_2150.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,60,3.7053749561309814,o+gabrielle+borneman_2015-05-21+22-14-33_2850457086687792659_The+W_2151.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,44,3.3453750610351562,o+gabrielle+borneman_2015-05-21+22-14-55_2850457086687792659_The+W_2152.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,67,2.245374917984009,o+gabrielle+borneman_2015-05-21+22-15-26_2850457086687792659_CW_2153.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,72,7.405375003814697,o+gabrielle+borneman_2015-05-21+22-15-38_2850457086687792659_CBS+time_2154.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,74,2.9053750038146973,o+gabrielle+borneman_2015-05-21+23-59-33_2850457086687792659_ESPN_2155.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,81,5.2053751945495605,o+gabrielle+borneman_2015-05-21+23-59-49_2850457086687792659_ESPN_2156.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,66,3.1853749752044678,o+gabrielle+borneman_2015-05-22+00-00-09_2850457086687792659_TNT_2157.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,79,6.629374980926514,o+gabrielle+borneman_2015-05-22+00-22-08_2850457086687792659_ESPN_2158.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,katrina houlahan,37,2.6453750133514404,o+gabrielle+borneman_2015-05-22+02-09-22_2850457086687792659_Bravo_2159.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,katrina houlahan,-7,2.9053750038146973,o+gabrielle+borneman_2015-05-22+02-09-34_2850457086687792659_Bravo_2160.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,49,2.809375047683716,o+gabrielle+borneman_2015-05-22+02-24-10_2850457086687792659_ESPN_2161.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,katrina houlahan,63,3.4653749465942383,o+gabrielle+borneman_2015-05-22+02-42-46_2850457086687792659_NFL_2162.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,64,4.2053751945495605,o+gabrielle+borneman_2015-05-22+09-17-02_2850457086687792659_156_2163.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,75,1.825374960899353,o+gabrielle+borneman_2015-05-22+19-06-31_2850457086687792659_Knoeffel_2164.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,74,4.445374965667725,o+gabrielle+borneman_2015-05-22+19-06-41_2850457086687792659_NFL_2165.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,72,7.645374774932861,o+gabrielle+borneman_2015-05-22+22-00-31_2850457086687792659_CW_2166.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,57,2.9453749656677246,o+gabrielle+borneman_2015-05-22+22-13-11_2850457086687792659_NBA_2167.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,78,4.425374984741211,o+gabrielle+borneman_2015-05-22+22-29-25_2850457086687792659_ESPN_2168.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,77,3.105375051498413,o+gabrielle+borneman_2015-05-22+22-57-55_2850457086687792659_CBS_2169.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,68,7.185375213623047,o+gabrielle+borneman_2015-05-22+23-56-33_2850457086687792659_TNT_2171.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,69,3.0733749866485596,o+gabrielle+borneman_2015-05-22+23-56-47_2850457086687792659_TNT_2170.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,53,2.6453750133514404,o+gabrielle+borneman_2015-05-23+00-03-27_2850457086687792659_NFL_2172.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,48,3.86537504196167,o+gabrielle+borneman_2015-05-23+01-13-30_2850457086687792659_Bridesmaids_2174.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,62,3.245374917984009,o+gabrielle+borneman_2015-05-23+00-41-23_2850457086687792659_NFL_2173.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,76,2.6253750324249268,o+gabrielle+borneman_2015-05-23+01-59-38_2850457086687792659_The+heat_2175.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,49,7.565374851226807,o+gabrielle+borneman_2015-05-23+02-08-21_2850457086687792659_The+heat_2176.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,katrina houlahan,42,2.8413751125335693,o+gabrielle+borneman_2015-05-23+02-10-30_2850457086687792659_Melissa+McCary_2177.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,71,3.36537504196167,o+gabrielle+borneman_2015-05-23+03-55-00_2850457086687792659_156_2178.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,48,3.5653750896453857,o+gabrielle+borneman_2015-05-23+03-55-14_2850457086687792659_NFL_2179.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,58,2.4653749465942383,o+gabrielle+borneman_2015-05-23+05-19-56_2850457086687792659_NFL_2180.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,24,2.8253750801086426,o+gabrielle+borneman_2015-05-23+05-42-28_2850457086687792659_Hoosiers_2181.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,42,3.7053749561309814,o+gabrielle+borneman_2015-05-23+05-42-54_2850457086687792659_Hoosiers_2182.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,70,3.5853750705718994,o+gabrielle+borneman_2015-05-24+00-09-01_2850457086687792659_ESPN_2183.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,67,2.9653749465942383,o+gabrielle+borneman_2015-05-24+00-53-50_2850457086687792659_TNT_2184.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,72,3.545375108718872,o+gabrielle+borneman_2015-05-24+00-54-02_2850457086687792659_CB+ass_2185.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,49,3.6453750133514404,o+gabrielle+borneman_2015-05-24+00-54-17_2850457086687792659_ABC_2186.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,62,2.1893749237060547,o+gabrielle+borneman_2015-05-24+00-54-34_2850457086687792659_SPN_2187.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,57,2.6853749752044678,o+gabrielle+borneman_2015-05-24+00-54-47_2850457086687792659_NFL_2188.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,65,3.4053750038146973,o+gabrielle+borneman_2015-05-24+17-59-47_2850457086687792659_156_2189.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,64,2.6253750324249268,o+gabrielle+borneman_2015-05-24+18-54-31_2850457086687792659_NBA_2190.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,83,3.5853750705718994,o+gabrielle+borneman_2015-05-24+18-58-57_2850457086687792659_ESPN_2191.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,44,7.065374851226807,o+gabrielle+borneman_2015-05-24+19-00-09_2850457086687792659_TNT_2192.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,89,3.4453749656677246,o+gabrielle+borneman_2015-05-25+01-01-29_2850457086687792659_ESPN_2193.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,77,7.745375156402588,o+gabrielle+borneman_2015-05-25+01-02-22_2850457086687792659_TNT_2194.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,50,3.1253750324249268,o+gabrielle+borneman_2015-05-25+01-56-35_2850457086687792659_TNT_2195.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,61,7.233375072479248,o+gabrielle+borneman_2015-05-25+08-10-01_2850457086687792659_156_2196.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,47,7.725375175476074,o+gabrielle+borneman_2015-05-25+08-10-23_2850457086687792659_Sister+act_2197.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,63,3.4053750038146973,o+gabrielle+borneman_2015-05-25+08-10-54_2850457086687792659_Sister+act+two_2198.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,66,3.3933749198913574,o+gabrielle+borneman_2015-05-25+08-11-20_2850457086687792659_Greece_2199.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,87,3.5853750705718994,o+gabrielle+borneman_2015-05-25+08-11-47_2850457086687792659_American+graffiti_2200.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,58,3.545375108718872,o+gabrielle+borneman_2015-05-25+11-03-08_2850457086687792659_Welcome+to+Mooseport_2201.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,83,7.725375175476074,o+gabrielle+borneman_2015-05-25+11-04-24_2850457086687792659_NFL+network_2202.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,66,5.185375213623047,o+gabrielle+borneman_2015-05-25+13-26-24_2850457086687792659_156_2203.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,80,7.745375156402588,o+gabrielle+borneman_2015-05-25+23-25-57_2850457086687792659_CBS_2204.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,70,3.36537504196167,o+gabrielle+borneman_2015-05-26+00-00-42_2850457086687792659_TNT_2205.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,81,7.825375080108643,o+gabrielle+borneman_2015-05-26+00-00-57_2850457086687792659_ESPN_2206.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,71,3.3453750610351562,o+gabrielle+borneman_2015-05-26+00-04-11_2850457086687792659_CBS_2207.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,37,3.36537504196167,o+gabrielle+borneman_2015-05-26+01-01-20_2850457086687792659_156_2208.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,69,4.805375099182129,o+gabrielle+borneman_2015-05-26+17-01-28_2850457086687792659_156_2209.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,68,5.325375080108643,o+gabrielle+borneman_2015-05-26+17-24-21_2850457086687792659_NFL_2210.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,51,2.8853750228881836,o+gabrielle+borneman_2015-05-26+21-30-37_2850457086687792659_NFL_2211.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,76,3.3253750801086426,o+gabrielle+borneman_2015-05-26+22-03-30_2850457086687792659_CW_2212.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,72,4.153375148773193,o+gabrielle+borneman_2015-05-26+22-58-09_2850457086687792659_CBS_2213.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,69,2.8453750610351562,o+gabrielle+borneman_2015-05-27+00-15-02_2850457086687792659_TNT_2214.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,57,3.9053750038146973,o+gabrielle+borneman_2015-05-27+00-21-14_2850457086687792659_156_2215.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,74,4.045374870300293,o+gabrielle+borneman_2015-05-27+00-27-44_2850457086687792659_Golf+channel_2216.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,52,6.325375080108643,o+gabrielle+borneman_2015-05-27+04-14-44_2850457086687792659_156_2217.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,74,7.625374794006348,o+gabrielle+borneman_2015-05-27+09-04-42_2850457086687792659_And+FL_2218.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,44,6.905375003814697,o+gabrielle+borneman_2015-05-27+09-05-17_2850457086687792659_NFL_2219.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,66,3.4053750038146973,o+gabrielle+borneman_2015-05-27+14-38-42_2850457086687792659_Golf+channel_2220.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,77,7.505374908447266,o+gabrielle+borneman_2015-05-27+14-48-17_2850457086687792659_ESPN_2221.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,65,3.6453750133514404,o+gabrielle+borneman_2015-05-27+15-16-17_2850457086687792659_The+big+easy_2222.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,83,4.777375221252441,o+gabrielle+borneman_2015-05-27+15-58-12_2850457086687792659_ESPN_2223.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,52,4.265375137329102,o+gabrielle+borneman_2015-05-27+22-09-23_2850457086687792659_NFL_2224.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,72,7.565374851226807,o+gabrielle+borneman_2015-05-27+23-06-07_2850457086687792659_CBS_2225.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,70,6.065374851226807,o+gabrielle+borneman_2015-05-28+00-15-34_2850457086687792659_CBS_2226.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,67,7.045374870300293,o+gabrielle+borneman_2015-05-28+00-56-57_2850457086687792659_NBA_2227.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,63,6.905375003814697,o+gabrielle+borneman_2015-05-28+01-00-59_2850457086687792659_And+T_2228.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,71,7.86537504196167,o+gabrielle+borneman_2015-05-28+01-01-12_2850457086687792659_TNT_2229.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,52,4.685375213623047,o+gabrielle+borneman_2015-05-28+01-01-50_2850457086687792659_ABC_2230.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,73,5.745375156402588,o+gabrielle+borneman_2015-05-28+01-02-07_2850457086687792659_ESPN_2231.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,47,2.5653750896453857,o+gabrielle+borneman_2015-05-28+01-08-22_2850457086687792659_NFL_2232.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,59,6.409375190734863,o+gabrielle+borneman_2015-05-28+02-20-22_2850457086687792659_156_2233.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,31,3.0053749084472656,o+gabrielle+borneman_2015-05-28+12-23-44_2850457086687792659_NFL_2234.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,72,7.725375175476074,o+gabrielle+borneman_2015-05-28+12-24-24_2850457086687792659_ESPN_2235.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,73,7.665375232696533,o+gabrielle+borneman_2015-05-28+15-06-01_2850457086687792659_ESPN_2236.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,55,3.5653750896453857,o+gabrielle+borneman_2015-05-28+15-28-36_2850457086687792659_ESPN_2237.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,75,7.345375061035156,o+gabrielle+borneman_2015-05-28+21-01-51_2850457086687792659_NFL_2238.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,55,4.833374977111816,o+gabrielle+borneman_2015-05-28+21-03-05_2850457086687792659_156_2239.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,64,2.045375108718872,o+gabrielle+borneman_2015-05-28+21-03-53_2850457086687792659_Do+grit_2240.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,69,5.225375175476074,o+gabrielle+borneman_2015-05-28+21-04-06_2850457086687792659_True+grit_2241.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,katrina houlahan,34,7.7053751945495605,o+gabrielle+borneman_2015-05-28+21-13-19_2850457086687792659_Six+pack_2242.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,34,3.7653748989105225,o+gabrielle+borneman_2015-05-28+21-15-35_2850457086687792659_Double+Jeopardy_2243.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,67,3.3853750228881836,o+gabrielle+borneman_2015-05-28+22-33-13_2850457086687792659_ESPN_2244.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,59,3.6453750133514404,o+gabrielle+borneman_2015-05-28+22-55-28_2850457086687792659_CBS_2245.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,74,3.721374988555908,o+gabrielle+borneman_2015-05-28+22-55-45_2850457086687792659_ESPN_2246.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,76,3.7653748989105225,o+gabrielle+borneman_2015-05-28+23-02-35_2850457086687792659_ESPN_2247.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,o gabrielle borneman,76,3.3853750228881836,o+gabrielle+borneman_2015-05-28+23-07-21_2850457086687792659_Women's+softball_2249.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,79,7.745375156402588,o+gabrielle+borneman_2015-05-28+23-06-03_2850457086687792659_Women's+college+softball+world+series_2248.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,75,2.9653749465942383,o+gabrielle+borneman_2015-05-28+23-08-05_2850457086687792659_CBS_2250.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,76,7.725375175476074,o+gabrielle+borneman_2015-05-28+23-11-29_2850457086687792659_Eat+S+PN_2251.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,79,7.905375003814697,o+gabrielle+borneman_2015-05-28+23-11-45_2850457086687792659_ESPN_2252.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,77,7.545374870300293,o+gabrielle+borneman_2015-05-28+23-13-26_2850457086687792659_CBS_2253.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,79,4.7053751945495605,o+gabrielle+borneman_2015-05-28+23-18-48_2850457086687792659_ESPN_2254.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,68,3.7053749561309814,o+gabrielle+borneman_2015-05-28+23-19-50_2850457086687792659_ABC_2255.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,52,7.825375080108643,o+gabrielle+borneman_2015-05-28+23-20-17_2850457086687792659_NBC_2256.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,73,7.645374774932861,o+gabrielle+borneman_2015-05-28+23-20-47_2850457086687792659_TBS_2257.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,52,5.745375156402588,o+gabrielle+borneman_2015-05-28+23-21-02_2850457086687792659_TNT_2258.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,78,7.745375156402588,o+gabrielle+borneman_2015-05-28+23-21-59_2850457086687792659_ESPN_2259.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,78,5.185375213623047,o+gabrielle+borneman_2015-05-28+23-27-21_2850457086687792659_CBS_2260.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,58,7.405375003814697,o+gabrielle+borneman_2015-05-28+23-28-05_2850457086687792659_Women's+College_2261.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,78,7.825375080108643,o+gabrielle+borneman_2015-05-28+23-28-25_2850457086687792659_Women's+college+world+series_2262.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,71,4.985374927520752,o+gabrielle+borneman_2015-05-28+23-29-51_2850457086687792659_Women's+college+world+series_2263.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,66,4.225375175476074,o+gabrielle+borneman_2015-05-28+23-37-35_2850457086687792659_ESPN_2264.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,80,3.605375051498413,o+gabrielle+borneman_2015-05-28+23-39-21_2850457086687792659_ESPN_2265.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,69,4.1373748779296875,o+gabrielle+borneman_2015-05-29+02-30-28_2850457086687792659_ESPN_2266.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,54,7.445374965667725,o+gabrielle+borneman_2015-05-29+02-31-53_2850457086687792659_156_2267.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,43,4.497375011444092,o+gabrielle+borneman_2015-05-29+15-03-57_2850457086687792659_Golf+channel_2268.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,61,4.125374794006348,o+gabrielle+borneman_2015-05-29+19-31-56_2850457086687792659_156_2269.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,77,2.8853750228881836,o+gabrielle+borneman_2015-05-29+19-43-56_2850457086687792659_ESPN_2270.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,83,4.885375022888184,o+gabrielle+borneman_2015-05-29+20-57-05_2850457086687792659_NFL+network_2271.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,69,2.5893750190734863,o+gabrielle+borneman_2015-05-29+22-03-10_2850457086687792659_CW_2272.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,katrina houlahan,71,3.0053749084472656,o+gabrielle+borneman_2015-05-29+22-18-14_2850457086687792659_NFL_2273.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,57,4.789374828338623,o+gabrielle+borneman_2015-05-29+22-21-05_2850457086687792659_CW_2274.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,85,7.625374794006348,o+gabrielle+borneman_2015-05-29+22-29-16_2850457086687792659_ESPN_2275.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,60,4.489375114440918,o+gabrielle+borneman_2015-05-29+23-00-10_2850457086687792659_CBS_2276.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,63,3.305375099182129,o+gabrielle+borneman_2015-05-30+15-59-06_2850457086687792659_ESPN_2277.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,59,4.001375198364258,o+gabrielle+borneman_2015-05-30+15-59-21_2850457086687792659_Golf+channel_2278.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,59,3.605375051498413,o+gabrielle+borneman_2015-05-30+21-33-50_2850457086687792659_NFL_2279.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,53,3.3253750801086426,o+gabrielle+borneman_2015-05-30+22-09-49_2850457086687792659_Jurassic+park_2280.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,russel isabell,55,7.625374794006348,o+gabrielle+borneman_2015-05-30+22-11-07_2850457086687792659_Identity+theft_2281.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,russel isabell,64,6.245375156402588,o+gabrielle+borneman_2015-05-30+22-11-36_2850457086687792659_Identity+theft_2282.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,56,3.8333749771118164,o+gabrielle+borneman_2015-05-30+22-12-09_2850457086687792659_Tammy_2283.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,71,7.317375183105469,o+gabrielle+borneman_2015-05-30+23-03-13_2850457086687792659_ESPN_2284.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,70,7.86537504196167,o+gabrielle+borneman_2015-05-30+23-03-32_2850457086687792659_CBS_2285.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,85,3.1253750324249268,o+gabrielle+borneman_2015-05-30+23-37-42_2850457086687792659_CBS_2286.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,katrina houlahan,33,6.985374927520752,o+gabrielle+borneman_2015-05-31+03-37-29_2850457086687792659_Tammy_2287.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,54,5.161375045776367,o+gabrielle+borneman_2015-06-11+09-46-45_2850457086687792659_It+works+right+here+it+auto+work_2290.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,55,3.041374921798706,o+gabrielle+borneman_2015-06-11+13-35-55_2850457086687792659_Attractive+89_2288.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,15,2.7093749046325684,o+gabrielle+borneman_2015-06-11+13-36-19_2850457086687792659_Play+NFL_2289.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,60,3.7853751182556152,o+gabrielle+borneman_2015-06-14+01-12-17_2850457086687792659_156_2291.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,51,3.3453750610351562,o+gabrielle+borneman_2015-06-14+11-44-44_2850457086687792659_NFL_2292.wav
+katrina-o-russel,katrina houlahan,o gabrielle borneman,true,russel isabell,81,2.5853750705718994,o+gabrielle+borneman_2015-06-14+15-51-02_2850457086687792659_Golf+channel_2293.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,79,3.36537504196167,o+gabrielle+borneman_2015-06-14+15-52-56_2850457086687792659_NBC_2294.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,48,2.5653750896453857,o+gabrielle+borneman_2015-06-14+15-54-31_2850457086687792659_NFL_2295.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,71,2.917375087738037,o+gabrielle+borneman_2015-06-14+16-00-38_2850457086687792659_ABC_2296.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,38,3.9053750038146973,o+gabrielle+borneman_2015-06-15+00-43-37_2850457086687792659_ABC_2297.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,75,4.885375022888184,o+gabrielle+borneman_2015-06-15+15-03-25_2850457086687792659_156_2298.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,68,5.305375099182129,o+gabrielle+borneman_2015-06-15+22-43-21_2850457086687792659_CBS_2299.wav
+katrina-o-russel,o gabrielle borneman,o gabrielle borneman,true,o gabrielle borneman,65,5.665375232696533,o+gabrielle+borneman_2015-06-15+23-05-36_2850457086687792659_NFL_2300.wav
+katrina-o-russel,russel isabell,o gabrielle borneman,true,o gabrielle borneman,60,7.505374908447266,o+gabrielle+borneman_2015-06-16+01-15-28_2850457086687792659_156_2301.wav
+katrina-o-russel,russel isabell,russel isabell,true,NA,NA,NA,TRAINED: russel+isabell_2015-02-21+14-17-27_2850457086687792659_Reels_1193.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,40,3.681375026702881,russel+isabell_2015-02-20+21-33-27_2850457086687792659_George+Burns_1190.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,45,4.885375022888184,russel+isabell_2015-02-20+21-28-28_2850457086687792659_The+graduate_1189.wav
+katrina-o-russel,russel isabell,russel isabell,true,NA,NA,NA,TRAINED: russel+isabell_2015-02-21+00-10-20_2850457086687792659_NBA_1191.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,67,3.3253750801086426,russel+isabell_2015-02-21+14-17-45_2850457086687792659_MGM_1194.wav
+katrina-o-russel,russel isabell,russel isabell,true,NA,NA,NA,TRAINED: russel+isabell_2015-02-21+14-20-38_2850457086687792659_Going+in+style_1195.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,78,4.245375156402588,russel+isabell_2015-02-21+14-36-55_2850457086687792659_Sharkys+machine_1196.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,russel isabell,77,7.685375213623047,russel+isabell_2015-02-21+20-34-41_2850457086687792659_MGM+Morsi_1198.wav
+katrina-o-russel,russel isabell,russel isabell,true,NA,NA,NA,TRAINED: russel+isabell_2015-02-21+20-38-34_2850457086687792659_Golf+channel_1199.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,71,7.745375156402588,russel+isabell_2015-02-21+23-57-50_2850457086687792659_CBS_1200.wav
+katrina-o-russel,russel isabell,russel isabell,true,NA,NA,NA,TRAINED: russel+isabell_2015-02-22+01-37-59_2850457086687792659_Golf+channel_1201.wav
+katrina-o-russel,russel isabell,russel isabell,true,NA,NA,NA,TRAINED: russel+isabell_2015-02-23+22-59-13_2850457086687792659_The+graduate_1202.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,61,3.1493749618530273,russel+isabell_2015-02-23+23-11-44_2850457086687792659_Grease+two_1203.wav
+katrina-o-russel,russel isabell,russel isabell,true,NA,NA,NA,TRAINED: russel+isabell_2015-02-23+23-12-12_2850457086687792659_Greece_1204.wav
+katrina-o-russel,russel isabell,russel isabell,true,NA,NA,NA,TRAINED: russel+isabell_2015-02-24+02-52-31_2850457086687792659_Encore_1205.wav
+katrina-o-russel,russel isabell,russel isabell,true,NA,NA,NA,TRAINED: russel+isabell_2015-02-24+16-48-16_2850457086687792659_Ken+Reeves+the+gift_1207.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,69,4.4573750495910645,russel+isabell_2015-02-24+17-20-01_2850457086687792659_My+cousin+Vinny_1209.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,80,4.225375175476074,russel+isabell_2015-02-24+21-56-56_2850457086687792659_The+quick+and+the+dead_1210.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,63,3.4053750038146973,russel+isabell_2015-02-24+21-58-03_2850457086687792659_Harrison+ford_1211.wav
+katrina-o-russel,russel isabell,russel isabell,true,NA,NA,NA,TRAINED: russel+isabell_2015-02-25+10-47-12_2850457086687792659_TBS_1214.wav
+katrina-o-russel,russel isabell,russel isabell,true,NA,NA,NA,TRAINED: russel+isabell_2015-02-25+17-01-03_2850457086687792659_The+super_1215.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,russel isabell,67,4.36537504196167,russel+isabell_2015-02-25+17-05-03_2850457086687792659_The+octagon_1216.wav
+katrina-o-russel,russel isabell,russel isabell,true,NA,NA,NA,TRAINED: russel+isabell_2015-02-25+17-55-26_2850457086687792659_Golf+channel_1217.wav
+katrina-o-russel,russel isabell,russel isabell,true,NA,NA,NA,TRAINED: russel+isabell_2015-02-25+18-14-23_2850457086687792659_Charles+Bronson_1218.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,61,7.185375213623047,russel+isabell_2015-02-25+20-04-10_2850457086687792659_Robin+hood_1220.wav
+katrina-o-russel,russel isabell,russel isabell,true,NA,NA,NA,TRAINED: russel+isabell_2015-02-25+20-07-40_2850457086687792659_AMC_1221.wav
+katrina-o-russel,russel isabell,russel isabell,true,NA,NA,NA,TRAINED: russel+isabell_2015-02-25+20-08-23_2850457086687792659_AMC_1222.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,russel isabell,68,5.005374908447266,russel+isabell_2015-02-25+23-51-19_2850457086687792659_The+W_1225.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,russel isabell,79,2.9053750038146973,russel+isabell_2015-02-25+23-51-51_2850457086687792659_CW+seven_1226.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,russel isabell,80,7.86537504196167,russel+isabell_2015-02-25+23-52-18_2850457086687792659_ZW_1227.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,russel isabell,73,2.9653749465942383,russel+isabell_2015-02-25+23-52-59_2850457086687792659_FX_1228.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,91,4.025374889373779,russel+isabell_2015-02-25+23-53-12_2850457086687792659_CBS+news_1229.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,67,2.725374937057495,russel+isabell_2015-02-25+23-53-33_2850457086687792659_CBS_1230.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,russel isabell,63,3.045375108718872,russel+isabell_2015-02-26+15-55-16_2850457086687792659_Golf+channel_1231.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,68,3.485374927520752,russel+isabell_2015-02-28+01-04-27_2850457086687792659_Golf+channel_1233.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,38,6.885375022888184,russel+isabell_2015-02-28+02-03-54_2850457086687792659_Enjoy_1234.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,53,7.725375175476074,russel+isabell_2015-02-28+18-54-05_2850457086687792659_Outlaw+Josey+wells_1238.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,o gabrielle borneman,28,5.885375022888184,russel+isabell_2015-02-28+20-44-02_2850457086687792659_Clint+Eastwood_1240.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,56,2.8453750610351562,russel+isabell_2015-03-01+00-14-36_2850457086687792659_NBA+network_1241.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,33,2.8453750610351562,russel+isabell_2015-03-01+03-57-25_2850457086687792659_The+Hoosiers_1242.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,82,2.7653748989105225,russel+isabell_2015-03-01+06-01-17_2850457086687792659_Golf+channel_1243.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,61,3.985374927520752,russel+isabell_2015-03-02+12-23-22_2850457086687792659_Cartoon+network_1244.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,55,4.305375099182129,russel+isabell_2015-03-04+01-08-35_2850457086687792659_Cliffhanger_1247.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,81,3.6453750133514404,russel+isabell_2015-03-04+01-23-33_2850457086687792659_Elvis+Pressley_1248.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,60,7.58537483215332,russel+isabell_2015-03-05+00-17-59_2850457086687792659_FS+Indiana_1252.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,71,7.745375156402588,russel+isabell_2015-03-05+01-03-46_2850457086687792659_NBA_1253.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,76,3.537374973297119,russel+isabell_2015-03-05+02-52-59_2850457086687792659_Golf+channel_1255.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,83,4.725375175476074,russel+isabell_2015-03-05+01-04-08_2850457086687792659_ESPN_1254.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,35,3.4653749465942383,russel+isabell_2015-03-05+17-11-14_2850457086687792659_156_1256.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,75,2.86537504196167,russel+isabell_2015-03-05+23-49-17_2850457086687792659_CBS_1257.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,68,4.025374889373779,russel+isabell_2015-03-06+00-18-53_2850457086687792659_NBA_1258.wav
+katrina-o-russel,russel isabell,russel isabell,true,katrina houlahan,67,6.673375129699707,russel+isabell_2015-03-06+05-46-11_2850457086687792659_Channel+antologi_1261.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,76,5.245375156402588,russel+isabell_2015-03-06+05-46-35_2850457086687792659_Golf+channel_1262.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,73,7.765375137329102,russel+isabell_2015-03-06+14-44-43_2850457086687792659_Walker+Texas+Ranger_1266.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,35,7.605374813079834,russel+isabell_2015-03-07+00-08-41_2850457086687792659_NBA_1268.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,65,2.805375099182129,russel+isabell_2015-03-07+00-11-21_2850457086687792659_W+and+D_1269.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,74,7.9573750495910645,russel+isabell_2015-03-07+00-11-49_2850457086687792659_ESPN_1270.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,68,3.3253750801086426,russel+isabell_2015-03-07+00-19-34_2850457086687792659_Chicago+Bulls_1271.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,74,4.725375175476074,russel+isabell_2015-03-07+00-20-17_2850457086687792659_CBS_1272.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,o gabrielle borneman,65,6.037374973297119,russel+isabell_2015-03-07+00-20-59_2850457086687792659_TNT_1273.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,57,4.225375175476074,russel+isabell_2015-03-07+00-21-13_2850457086687792659_NBA_1274.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,69,7.945374965667725,russel+isabell_2015-03-07+00-21-45_2850457086687792659_ESPN_1275.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,82,7.9573750495910645,russel+isabell_2015-03-07+00-22-08_2850457086687792659_WGN_1276.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,70,5.545374870300293,russel+isabell_2015-03-07+00-22-38_2850457086687792659_Fox+sports+Illinois_1277.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,71,3.6253750324249268,russel+isabell_2015-03-07+00-23-16_2850457086687792659_Fox+Sports+Indiana_1278.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,46,7.945374965667725,russel+isabell_2015-03-07+00-23-48_2850457086687792659_CBS+please_1279.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,62,3.2653748989105225,russel+isabell_2015-03-07+00-28-42_2850457086687792659_ESPN_1280.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,52,4.82937479019165,russel+isabell_2015-03-07+01-49-08_2850457086687792659_156_1281.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,59,2.8253750801086426,russel+isabell_2015-03-07+01-49-46_2850457086687792659_TCM_1282.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,41,3.985374927520752,russel+isabell_2015-03-07+01-51-57_2850457086687792659_AMC_1283.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,63,3.0853750705718994,russel+isabell_2015-03-07+01-54-04_2850457086687792659_MGM_1284.wav
+katrina-o-russel,russel isabell,russel isabell,true,katrina houlahan,62,5.345375061035156,russel+isabell_2015-03-07+02-01-04_2850457086687792659_NBA_1285.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,45,4.905375003814697,russel+isabell_2015-03-07+04-24-35_2850457086687792659_Golf+channel_1286.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,56,4.145374774932861,russel+isabell_2015-03-07+04-29-22_2850457086687792659_The+heat_1287.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,62,5.505374908447266,russel+isabell_2015-03-07+13-38-03_2850457086687792659_156_1288.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,44,2.62137508392334,russel+isabell_2015-03-07+19-33-39_2850457086687792659_James+Stewart_1289.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,74,7.425374984741211,russel+isabell_2015-03-08+05-57-18_2850457086687792659_Golf+channel_1290.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,44,3.1253750324249268,russel+isabell_2015-03-08+08-25-15_2850457086687792659_Golf+channel_1291.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,83,2.6853749752044678,russel+isabell_2015-03-08+19-27-38_2850457086687792659_NFL+network_1292.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,70,6.165375232696533,russel+isabell_2015-03-08+19-28-26_2850457086687792659_NBA_1293.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,58,4.029375076293945,russel+isabell_2015-03-08+19-30-12_2850457086687792659_156_1294.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,russel isabell,68,2.665374994277954,russel+isabell_2015-03-09+08-36-56_2850457086687792659_Golf+channel_1295.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,82,2.7053749561309814,russel+isabell_2015-03-09+12-30-35_2850457086687792659_Golf+channel_1296.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,71,6.665375232696533,russel+isabell_2015-03-09+22-05-16_2850457086687792659_CW+seven_1298.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,russel isabell,78,2.925374984741211,russel+isabell_2015-03-09+22-06-25_2850457086687792659_CW_1299.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,73,7.725375175476074,russel+isabell_2015-03-09+22-56-09_2850457086687792659_CBS_1300.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,russel isabell,74,7.625374794006348,russel+isabell_2015-03-09+23-56-27_2850457086687792659_CW+seven_1302.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,65,4.045374870300293,russel+isabell_2015-03-09+23-56-53_2850457086687792659_CW_1303.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,66,7.745375156402588,russel+isabell_2015-03-10+01-00-56_2850457086687792659_Golf+channel_1304.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,74,4.925374984741211,russel+isabell_2015-03-10+01-01-24_2850457086687792659_ESPN_1305.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,russel isabell,65,3.229374885559082,russel+isabell_2015-03-10+03-04-59_2850457086687792659_Karate+kid_1307.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,70,7.665375232696533,russel+isabell_2015-03-10+07-59-41_2850457086687792659_Jeremiah+Johnson_1308.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,65,2.8253750801086426,russel+isabell_2015-03-10+17-41-24_2850457086687792659_TMC_1314.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,33,3.6253750324249268,russel+isabell_2015-03-10+17-41-46_2850457086687792659_156_1315.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,55,3.5253748893737793,russel+isabell_2015-03-10+17-42-09_2850457086687792659_Outlaw+Josey+Wales_1316.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,63,3.0253748893737793,russel+isabell_2015-03-10+17-42-49_2850457086687792659_Gran+Torino_1317.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,59,3.0253748893737793,russel+isabell_2015-03-10+17-43-11_2850457086687792659_Trouble+with+the+curve_1318.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,russel isabell,73,2.86537504196167,russel+isabell_2015-03-10+22-09-37_2850457086687792659_CW_1319.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,78,4.105374813079834,russel+isabell_2015-03-10+22-19-12_2850457086687792659_TNT_1321.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,76,7.945374965667725,russel+isabell_2015-03-10+22-19-44_2850457086687792659_ESPN_1322.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,77,7.945374965667725,russel+isabell_2015-03-10+22-20-17_2850457086687792659_Fox+sports+Indiana_1323.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,67,3.4453749656677246,russel+isabell_2015-03-10+22-22-50_2850457086687792659_CW_1324.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,80,7.745375156402588,russel+isabell_2015-03-10+23-02-44_2850457086687792659_ESPN_1328.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,80,3.3253750801086426,russel+isabell_2015-03-11+11-28-03_2850457086687792659_NFL+network_1336.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,59,7.745375156402588,russel+isabell_2015-03-10+23-05-28_2850457086687792659_NBA_1331.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,80,3.369374990463257,russel+isabell_2015-03-11+17-42-00_2850457086687792659_Golf+channel_1340.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,75,3.3253750801086426,russel+isabell_2015-03-11+17-48-26_2850457086687792659_LPGA_1341.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,56,5.905375003814697,russel+isabell_2015-03-11+17-50-46_2850457086687792659_156_1342.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,68,3.425374984741211,russel+isabell_2015-03-11+23-00-10_2850457086687792659_TNT_1345.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,86,7.645374774932861,russel+isabell_2015-03-11+22-58-09_2850457086687792659_ESPN_1344.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,79,7.945374965667725,russel+isabell_2015-03-11+23-00-29_2850457086687792659_TBS_1346.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,74,6.345375061035156,russel+isabell_2015-03-11+23-01-45_2850457086687792659_ESPN_1347.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,80,2.925374984741211,russel+isabell_2015-03-11+23-02-38_2850457086687792659_CBS_1348.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,76,7.765375137329102,russel+isabell_2015-03-11+23-05-00_2850457086687792659_NBA_1349.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,80,6.945374965667725,russel+isabell_2015-03-11+23-57-23_2850457086687792659_Golf+channel_1350.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,90,3.0853750705718994,russel+isabell_2015-03-12+00-00-00_2850457086687792659_ESPN_1351.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,58,6.945374965667725,russel+isabell_2015-03-12+00-00-42_2850457086687792659_TNT_1352.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,79,6.345375061035156,russel+isabell_2015-03-12+00-01-22_2850457086687792659_NBA_1354.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,82,7.645374774932861,russel+isabell_2015-03-12+00-01-00_2850457086687792659_TBS_1353.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,80,7.685375213623047,russel+isabell_2015-03-12+00-03-06_2850457086687792659_ESPN+Philadelphia_1355.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,69,7.7053751945495605,russel+isabell_2015-03-12+00-04-20_2850457086687792659_156_1356.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,72,2.4493749141693115,russel+isabell_2015-03-12+00-07-27_2850457086687792659_MGM_1357.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,69,3.1253750324249268,russel+isabell_2015-03-12+00-07-46_2850457086687792659_TMC_1358.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,60,2.8253750801086426,russel+isabell_2015-03-12+00-08-11_2850457086687792659_AMC_1359.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,65,2.3253750801086426,russel+isabell_2015-03-12+00-12-19_2850457086687792659_NBA_1360.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,o gabrielle borneman,85,4.045374870300293,russel+isabell_2015-03-12+00-34-08_2850457086687792659_ESPN_1361.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,81,2.4653749465942383,russel+isabell_2015-03-12+12-53-11_2850457086687792659_NFL+network_1364.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,45,7.745375156402588,russel+isabell_2015-03-12+15-28-17_2850457086687792659_Humphrey+Bogart_1367.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,79,7.617374897003174,russel+isabell_2015-03-12+19-34-56_2850457086687792659_NFL+network_1368.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,80,7.481375217437744,russel+isabell_2015-03-12+22-33-41_2850457086687792659_WG7_1369.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,70,7.945374965667725,russel+isabell_2015-03-12+22-33-59_2850457086687792659_CW+seven+work_1370.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,64,7.945374965667725,russel+isabell_2015-03-12+22-34-14_2850457086687792659_CW_1371.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,68,7.945374965667725,russel+isabell_2015-03-12+22-34-35_2850457086687792659_CBS_1372.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,68,3.6253750324249268,russel+isabell_2015-03-12+22-59-07_2850457086687792659_CBS_1373.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,40,2.0853750705718994,russel+isabell_2015-03-13+04-03-50_2850457086687792659_56_1376.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,73,5.725375175476074,russel+isabell_2015-03-12+22-59-36_2850457086687792659_NFL+network_1374.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,66,7.9573750495910645,russel+isabell_2015-03-13+04-04-09_2850457086687792659_156_1377.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,77,7.7053751945495605,russel+isabell_2015-03-13+06-34-01_2850457086687792659_156_1378.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,o gabrielle borneman,59,4.437375068664551,russel+isabell_2015-03-13+06-34-32_2850457086687792659_Humphrey+Bogart_1379.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,russel isabell,41,7.825375080108643,russel+isabell_2015-03-13+06-37-38_2850457086687792659_Jimmy+Stewart_1380.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,o gabrielle borneman,67,6.4613752365112305,russel+isabell_2015-03-13+06-38-04_2850457086687792659_James+Stewart_1381.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,59,5.485374927520752,russel+isabell_2015-03-13+12-48-01_2850457086687792659_NFL_1382.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,o gabrielle borneman,36,6.165375232696533,russel+isabell_2015-03-13+21-15-53_2850457086687792659_Spell_1383.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,o gabrielle borneman,76,5.149374961853027,russel+isabell_2015-03-13+21-16-19_2850457086687792659_NFL+network_1384.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,72,6.337375164031982,russel+isabell_2015-03-13+22-59-51_2850457086687792659_CBS_1385.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,81,7.945374965667725,russel+isabell_2015-03-13+23-00-13_2850457086687792659_NFL+network_1386.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,75,7.861374855041504,russel+isabell_2015-03-13+23-56-48_2850457086687792659_156_1388.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,55,5.181375026702881,russel+isabell_2015-03-14+01-52-23_2850457086687792659_Mr.+baseball_1389.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,49,7.845375061035156,russel+isabell_2015-03-14+01-53-13_2850457086687792659_Rush+hour_1390.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,14,5.325375080108643,russel+isabell_2015-03-14+01-53-41_2850457086687792659_Rush+hour_1391.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,21,4.425374984741211,russel+isabell_2015-03-14+01-55-22_2850457086687792659_High+crimes_1392.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,63,2.8253750801086426,russel+isabell_2015-03-14+01-57-37_2850457086687792659_Grand+Carino_1394.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,-3,1.3853750228881836,russel+isabell_2015-03-14+01-58-35_2850457086687792659_Bass_1395.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,60,7.765375137329102,russel+isabell_2015-03-14+03-28-58_2850457086687792659_156+from+this+channel+I+don't+know+I_1397.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,42,4.245375156402588,russel+isabell_2015-03-14+03-29-26_2850457086687792659_156_1398.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,33,3.9653749465942383,russel+isabell_2015-03-14+03-53-38_2850457086687792659_Along+came+a+spider_1399.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,55,4.025374889373779,russel+isabell_2015-03-14+03-54-00_2850457086687792659_Kiss+the+girls_1400.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,59,7.7053751945495605,russel+isabell_2015-03-14+03-55-17_2850457086687792659_Casino_1401.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,23,6.669374942779541,russel+isabell_2015-03-14+04-03-48_2850457086687792659_The+verdict_1403.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,48,3.5653750896453857,russel+isabell_2015-03-14+04-18-55_2850457086687792659_Free+movies_1408.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,o gabrielle borneman,55,7.725375175476074,russel+isabell_2015-03-14+06-05-36_2850457086687792659_156_1409.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,68,2.985374927520752,russel+isabell_2015-03-14+06-06-40_2850457086687792659_NFL+network_1410.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,43,7.765375137329102,russel+isabell_2015-03-14+07-46-43_2850457086687792659_156_1411.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,81,3.605375051498413,russel+isabell_2015-03-16+00-41-47_2850457086687792659_Joe+Kidd_1413.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,55,2.489375114440918,russel+isabell_2015-03-16+00-42-41_2850457086687792659_Joe+Kidd_1414.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,44,3.3453750610351562,russel+isabell_2015-03-16+00-43-14_2850457086687792659_Murphy's+Romance_1415.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,63,3.429374933242798,russel+isabell_2015-03-16+00-48-11_2850457086687792659_Sandra+Bullock_1417.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,75,7.725375175476074,russel+isabell_2015-03-16+00-44-14_2850457086687792659_MGM+action+movie+channel_1416.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,70,7.125374794006348,russel+isabell_2015-03-16+03-10-44_2850457086687792659_Casino+this+is+a+good+movie+to+see+what+it+says_1418.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,74,3.425374984741211,russel+isabell_2015-03-16+03-11-15_2850457086687792659_Casino_1419.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,o gabrielle borneman,80,3.245374917984009,russel+isabell_2015-03-16+03-12-47_2850457086687792659_Million+Dollar+baby_1420.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,83,3.6253750324249268,russel+isabell_2015-03-16+22-38-53_2850457086687792659_CBS_1421.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,78,3.5853750705718994,russel+isabell_2015-03-16+23-28-17_2850457086687792659_NBA+network_1422.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,83,4.145374774932861,russel+isabell_2015-03-16+23-28-37_2850457086687792659_ESPN_1423.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,70,3.245374917984009,russel+isabell_2015-03-16+23-29-28_2850457086687792659_CBS_1424.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,75,4.065374851226807,russel+isabell_2015-03-16+23-34-46_2850457086687792659_Fox+sports+Indiana_1425.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,78,4.425374984741211,russel+isabell_2015-03-16+23-35-29_2850457086687792659_NBA+network_1426.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,35,2.6253750324249268,russel+isabell_2015-03-17+00-00-17_2850457086687792659_TNT_1427.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,40,6.445374965667725,russel+isabell_2015-03-17+00-00-50_2850457086687792659_FS+Indiana_1428.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,72,4.525374889373779,russel+isabell_2015-03-17+00-01-32_2850457086687792659_ESPN_1429.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,72,7.58537483215332,russel+isabell_2015-03-17+04-04-42_2850457086687792659_NBA_1431.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,russel isabell,41,2.665374994277954,russel+isabell_2015-03-17+22-02-36_2850457086687792659_Fox_1433.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,51,6.385375022888184,russel+isabell_2015-03-17+17-32-51_2850457086687792659_156_1432.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,49,3.305375099182129,russel+isabell_2015-03-18+00-10-54_2850457086687792659_Paul+Josey+wells_1442.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,o gabrielle borneman,52,3.925374984741211,russel+isabell_2015-03-18+00-11-17_2850457086687792659_Outlaw+Josey+wells_1443.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,63,2.545375108718872,russel+isabell_2015-03-18+00-12-16_2850457086687792659_Tin+cup_1444.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,o gabrielle borneman,27,3.1373751163482666,russel+isabell_2015-03-18+00-12-47_2850457086687792659_Happy+Gilmore_1445.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,59,7.765375137329102,russel+isabell_2015-03-18+00-17-21_2850457086687792659_John+Wayne_1446.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,59,4.425374984741211,russel+isabell_2015-03-18+02-22-09_2850457086687792659_156_1452.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,77,5.525374889373779,russel+isabell_2015-03-18+02-22-40_2850457086687792659_Cahill+US+Marshal_1453.wav
+katrina-o-russel,russel isabell,russel isabell,true,katrina houlahan,37,6.745375156402588,russel+isabell_2015-03-18+02-23-48_2850457086687792659_True+grit_1454.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,55,3.925374984741211,russel+isabell_2015-03-18+02-24-29_2850457086687792659_True+grit_1455.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,77,3.3293750286102295,russel+isabell_2015-03-19+17-45-17_2850457086687792659_NFL+network_1458.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,27,3.4053750038146973,russel+isabell_2015-03-19+17-58-36_2850457086687792659_TruTV_1459.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,77,2.925374984741211,russel+isabell_2015-03-19+18-00-09_2850457086687792659_TBS_1460.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,55,3.245374917984009,russel+isabell_2015-03-19+18-42-02_2850457086687792659_TruTV_1463.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,60,2.86537504196167,russel+isabell_2015-03-19+21-08-28_2850457086687792659_TNT_1465.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,63,4.065374851226807,russel+isabell_2015-03-19+23-45-50_2850457086687792659_TruTV_1466.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,russel isabell,74,2.925374984741211,russel+isabell_2015-03-19+23-47-39_2850457086687792659_TNT_1467.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,73,2.665374994277954,russel+isabell_2015-03-19+23-48-54_2850457086687792659_TBS_1468.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,57,3.2853751182556152,russel+isabell_2015-03-19+23-50-06_2850457086687792659_CBS_1469.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,84,3.0253748893737793,russel+isabell_2015-03-20+16-06-04_2850457086687792659_CBS_1473.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,69,5.845375061035156,russel+isabell_2015-03-20+03-46-15_2850457086687792659_TNT_1471.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,56,7.765375137329102,russel+isabell_2015-03-20+16-06-11_2850457086687792659_TruTV_1474.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,65,2.4653749465942383,russel+isabell_2015-03-20+16-37-16_2850457086687792659_CBS_1475.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,70,3.605375051498413,russel+isabell_2015-03-20+19-50-47_2850457086687792659_TruTV_1477.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,85,2.7053749561309814,russel+isabell_2015-03-20+19-51-49_2850457086687792659_CBS_1478.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,72,6.445374965667725,russel+isabell_2015-03-20+22-17-18_2850457086687792659_CW+seven_1480.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,75,7.605374813079834,russel+isabell_2015-03-20+22-14-38_2850457086687792659_CW+seven_1479.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,54,2.245374917984009,russel+isabell_2015-03-20+22-18-08_2850457086687792659_CW_1481.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,84,7.741374969482422,russel+isabell_2015-03-20+22-59-20_2850457086687792659_CBS_1485.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,49,2.5653750896453857,russel+isabell_2015-03-20+22-59-21_2850457086687792659_TruTV_1482.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,77,4.993374824523926,russel+isabell_2015-03-20+22-59-47_2850457086687792659_TNT_1483.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,73,5.505374908447266,russel+isabell_2015-03-20+23-00-12_2850457086687792659_TBS_1484.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,65,7.7053751945495605,russel+isabell_2015-03-20+23-28-20_2850457086687792659_ESPN_1487.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,69,5.725375175476074,russel+isabell_2015-03-20+23-51-39_2850457086687792659_NBA+network_1488.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,77,7.86537504196167,russel+isabell_2015-03-20+23-52-05_2850457086687792659_CBS_1489.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,70,7.58537483215332,russel+isabell_2015-03-20+23-55-19_2850457086687792659_NBA+network_1490.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,82,3.725374937057495,russel+isabell_2015-03-21+00-11-05_2850457086687792659_ESPN_1491.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,73,6.165375232696533,russel+isabell_2015-03-21+00-21-09_2850457086687792659_CBS_1492.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,68,3.665374994277954,russel+isabell_2015-03-21+05-26-14_2850457086687792659_The+natural_1493.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,38,3.8333749771118164,russel+isabell_2015-03-21+11-59-51_2850457086687792659_156_1495.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,61,4.825375080108643,russel+isabell_2015-03-21+16-43-57_2850457086687792659_CBS_1496.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,74,7.725375175476074,russel+isabell_2015-03-21+16-44-41_2850457086687792659_TNK_1498.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,63,7.901374816894531,russel+isabell_2015-03-21+16-45-05_2850457086687792659_T+and+T_1499.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,47,7.7053751945495605,russel+isabell_2015-03-21+16-45-13_2850457086687792659_TruTV_1497.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,80,7.305375099182129,russel+isabell_2015-03-21+16-45-48_2850457086687792659_TBS_1500.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,60,7.849374771118164,russel+isabell_2015-03-21+16-49-06_2850457086687792659_TruTV_1501.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,67,5.401374816894531,russel+isabell_2015-03-21+16-51-27_2850457086687792659_CBS_1504.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,75,7.545374870300293,russel+isabell_2015-03-21+16-51-11_2850457086687792659_TNT_1502.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,44,2.805375099182129,russel+isabell_2015-03-21+16-51-33_2850457086687792659_TBS_1503.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,46,2.7653748989105225,russel+isabell_2015-03-22+01-18-25_2850457086687792659_TBS_1505.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,79,4.745375156402588,russel+isabell_2015-03-22+02-26-26_2850457086687792659_NFL+network_1506.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,50,2.6253750324249268,russel+isabell_2015-03-22+02-50-17_2850457086687792659_NBA_1507.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,78,7.665375232696533,russel+isabell_2015-03-23+22-58-39_2850457086687792659_CBS_1514.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,72,7.745375156402588,russel+isabell_2015-03-24+05-21-19_2850457086687792659_156_1516.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,74,3.925374984741211,russel+isabell_2015-03-24+07-29-34_2850457086687792659_North+to+Alaska_1517.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,o gabrielle borneman,64,3.5053749084472656,russel+isabell_2015-03-24+07-30-19_2850457086687792659_North+to+Alaska_1518.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,45,3.8453750610351562,russel+isabell_2015-03-24+09-35-02_2850457086687792659_156_1519.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,55,4.445374965667725,russel+isabell_2015-03-24+22-04-45_2850457086687792659_CW_1521.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,70,5.145374774932861,russel+isabell_2015-03-24+22-12-11_2850457086687792659_NFL+network_1522.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,52,3.925374984741211,russel+isabell_2015-03-24+23-57-25_2850457086687792659_156_1525.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,83,3.105375051498413,russel+isabell_2015-03-24+23-58-46_2850457086687792659_NBA+network_1526.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,54,3.557374954223633,russel+isabell_2015-03-24+23-59-05_2850457086687792659_156_1527.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,katrina houlahan,-100,1.6853749752044678,russel+isabell_2015-03-25+19-16-50_2850457086687792659_Spot_1529.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,45,7.825375080108643,russel+isabell_2015-03-25+19-17-02_2850457086687792659_156+just+Bênção+reeves_1530.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,o gabrielle borneman,77,3.4053750038146973,russel+isabell_2015-03-25+23-23-26_2850457086687792659_NFL+network_1533.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,63,2.9653749465942383,russel+isabell_2015-03-26+00-25-42_2850457086687792659_156_1534.wav
+katrina-o-russel,russel isabell,russel isabell,true,katrina houlahan,57,4.325375080108643,russel+isabell_2015-03-26+04-47-23_2850457086687792659_156_1535.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,90,3.6253750324249268,russel+isabell_2015-03-26+13-42-39_2850457086687792659_ESPN_1536.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,83,3.1453750133514404,russel+isabell_2015-03-26+21-45-45_2850457086687792659_Golf+channel_1537.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,60,7.741374969482422,russel+isabell_2015-03-26+22-57-56_2850457086687792659_CBS_1540.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,59,7.605374813079834,russel+isabell_2015-03-27+04-52-32_2850457086687792659_156_1542.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,77,3.4653749465942383,russel+isabell_2015-03-27+19-39-23_2850457086687792659_NFL+network_1543.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,69,5.505374908447266,russel+isabell_2015-03-27+22-09-04_2850457086687792659_CW_1544.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,67,3.85337495803833,russel+isabell_2015-03-28+01-41-26_2850457086687792659_CBS_1548.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,48,5.025374889373779,russel+isabell_2015-03-28+06-38-12_2850457086687792659_156_1552.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,61,3.3253750801086426,russel+isabell_2015-03-28+14-54-53_2850457086687792659_156_1558.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,63,4.105374813079834,russel+isabell_2015-03-28+15-06-22_2850457086687792659_156_1559.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,79,4.305375099182129,russel+isabell_2015-03-28+19-12-57_2850457086687792659_CBS_1560.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,72,7.805375099182129,russel+isabell_2015-03-28+19-13-14_2850457086687792659_TBS_1561.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,74,3.5813748836517334,russel+isabell_2015-03-28+19-22-51_2850457086687792659_TBS_1563.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,55,5.405375003814697,russel+isabell_2015-03-28+19-24-04_2850457086687792659_TNT_1562.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,68,4.08537483215332,russel+isabell_2015-03-28+19-24-38_2850457086687792659_CBS_1564.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,57,4.445374965667725,russel+isabell_2015-03-28+19-27-38_2850457086687792659_156_1565.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,84,7.785375118255615,russel+isabell_2015-03-28+19-35-32_2850457086687792659_ESPN_1566.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,69,7.689374923706055,russel+isabell_2015-03-28+22-47-31_2850457086687792659_CBS_1567.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,79,2.4653749465942383,russel+isabell_2015-03-29+01-54-03_2850457086687792659_CBS_1570.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,o gabrielle borneman,75,7.605374813079834,russel+isabell_2015-03-29+01-54-23_2850457086687792659_TBS_1571.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,47,3.6453750133514404,russel+isabell_2015-03-29+02-28-36_2850457086687792659_CBS_1573.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,79,3.165374994277954,russel+isabell_2015-03-29+17-21-35_2850457086687792659_CBS_1574.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,72,3.0893750190734863,russel+isabell_2015-03-29+17-21-53_2850457086687792659_TBS_1575.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,62,3.605375051498413,russel+isabell_2015-03-30+00-03-25_2850457086687792659_CBS_1576.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,57,2.6453750133514404,russel+isabell_2015-03-30+00-05-19_2850457086687792659_TBS_1577.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,70,4.145374774932861,russel+isabell_2015-03-30+00-05-43_2850457086687792659_CBS_1578.wav
+katrina-o-russel,katrina houlahan,russel isabell,true,o gabrielle borneman,65,2.9053750038146973,russel+isabell_2015-03-30+23-34-11_2850457086687792659_CBS_1583.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,80,7.525374889373779,russel+isabell_2015-03-31+11-13-10_2850457086687792659_NFL+network_1584.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,41,2.1853749752044678,russel+isabell_2015-03-31+22-32-59_2850457086687792659_CW_1585.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,74,3.9653749465942383,russel+isabell_2015-03-31+22-33-09_2850457086687792659_CBS_1586.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,81,3.5253748893737793,russel+isabell_2015-03-31+23-05-16_2850457086687792659_NFL+network_1587.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,71,3.2053749561309814,russel+isabell_2015-04-01+00-00-57_2850457086687792659_NBA_1589.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,73,6.769374847412109,russel+isabell_2015-04-01+00-19-24_2850457086687792659_Sports+Indiana_1591.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,19,3.4653749465942383,russel+isabell_2015-04-01+08-24-59_2850457086687792659_156_1592.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,63,7.029375076293945,russel+isabell_2015-04-01+13-27-11_2850457086687792659_TV+land_1593.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,58,5.005374908447266,russel+isabell_2015-04-01+13-34-05_2850457086687792659_156_1595.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,41,7.565374851226807,russel+isabell_2015-04-01+13-33-44_2850457086687792659_1536_1594.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,o gabrielle borneman,86,3.805375099182129,russel+isabell_2015-04-01+15-57-24_2850457086687792659_NFL+network_1596.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,76,7.825375080108643,russel+isabell_2015-04-01+20-41-26_2850457086687792659_NBA+network_1597.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,64,3.245374917984009,russel+isabell_2015-04-01+21-58-58_2850457086687792659_CW_1598.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,71,3.4053750038146973,russel+isabell_2015-04-01+22-58-37_2850457086687792659_CBS_1599.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,62,3.3253750801086426,russel+isabell_2015-04-01+23-17-27_2850457086687792659_NBA_1600.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,45,2.745374917984009,russel+isabell_2015-04-02+01-54-39_2850457086687792659_The+natural_1601.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,30,7.665375232696533,russel+isabell_2015-04-02+01-55-03_2850457086687792659_Bull+Durham_1602.wav
+katrina-o-russel,russel isabell,russel isabell,true,russel isabell,5,7.605374813079834,russel+isabell_2015-04-02+01-57-19_2850457086687792659_Bull+Durham_1603.wav
+katrina-o-russel,o gabrielle borneman,russel isabell,true,russel isabell,71,3.4653749465942383,russel+isabell_2015-04-02+14-33-19_2850457086687792659_Golf+channel_1607.wav
+katrina-o-russel,russel isabell,russel isabell,true,o gabrielle borneman,86,7.869375228881836,russel+isabell_2015-04-02+15-17-48_2850457086687792659_NFL+network_1608.wav
