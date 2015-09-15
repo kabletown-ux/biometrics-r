@@ -28,7 +28,7 @@ loadData3 <- function( fileName ) {
     rawData3$predicted.speaker[ rawData3$predicted.speaker == "robert" ] <- "robert ryan"
     
     # add column for aggregation calculation
-    rawData3$score <- 1
+    #rawData3$score <- 1
     
     #rawData3 <<- rawData3   
     #rawData3
@@ -46,28 +46,6 @@ loadData3 <- function( fileName ) {
 }
 doAnalysis3 <- function() {
     
-#     #print( unique( rawData3$real.speaker ) )
-#     #print( table( rawData3$real.speaker ) )
-#     matches <- subset( rawData3, real.speaker == identified.as ) 
-#     misses <- subset( rawData3, real.speaker != identified.as )
-#     
-#     missesAggregate <- aggregate( score ~ real.speaker + identified.as, misses, sum )
-#     matchesAggregate <- aggregate( score ~ real.speaker + identified.as, matches, sum )
-#     
-#     bothAggregates <- rbind( missesAggregate, matchesAggregate )
-#     sortedAggregate <- bothAggregates[ order( bothAggregates$real.speaker, -bothAggregates$score ), ]
-#     print( "Nuance Baseline for Trios" )
-#     
-#     colnames( sortedAggregate ) <- c( "Actual", "Predicted", "Score" )
-#     print( sortedAggregate )
-#     class( sortedAggregate )
-    
-#     scores <- bothAggregates[[3]]
-#     print( scores )
-#     str( bothAggregates )
-    #table( sortedAggregate )
-    
-    # this is waaaaaay easier!
     print( "" )
     print( "Nuance Baseline for Trios" )
     confusion <- table( rawData3$real.speaker, rawData3$identified.as )
